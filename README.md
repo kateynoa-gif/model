@@ -11,7 +11,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ### 2 sept - [Workshops]
 <p> S0 - HTML & CSS Basics van Justus </p> 
 Gevraagd waarvoor ongeordende lijsten worden gebruikt en antwoord gekregen. Verder snapte ik de basic werking van html en css nog niet zo goed, en snap ik deze na deze les wel. 
-
+<br>
 <p> S0 - Interactie: MMD, micro-interacties, forms van Nicky </p>
 <img width="963" height="734" alt="Scherm­afbeelding 2026-09-02 om 12 41 38" src="https://github.com/user-attachments/assets/98e564b2-4585-4e51-8d63-b6f6f7c949ab" />
 
