@@ -4,7 +4,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### [...]
+### 4 sept - [Workshops]
+Vandaag veel geleerd over CSS en de opbouw van een pagina, ik snap nu beter de mogelijkheden van css.
 
 [...]
 
