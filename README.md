@@ -10,7 +10,8 @@ S0 - CSS: fonts met kleur en effecten (Sanne)
 Hier veel geleerd over fonts en deze te gebruiken, huiswerk gemaakt.
 <img width="2518" height="1366" alt="image" src="https://github.com/user-attachments/assets/ae317946-7f7e-4f5f-a6b9-5c4c22404091" /> 
 <img width="1980" height="1440" alt="image" src="https://github.com/user-attachments/assets/2bccd815-0550-43d8-92a3-497f16c55108" />
-<img width="2600" height="1478" alt="image" src="https://github.com/user-attachments/assets/6c781b38-dfb0-4767-831b-37c1a025905c" />
+<img width="2644" height="1678" alt="image" src="https://github.com/user-attachments/assets/cf70b8bf-d532-405a-a77f-62391a334ed1" />
+
 <br>
 Praktische CSS
 Vandaag veel geleerd over CSS en de opbouw van een pagina, ik snap nu beter de mogelijkheden van css.
