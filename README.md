@@ -9,6 +9,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 
 ### 7 sept - 1ste werkgroep met artikelen
+De checkout vragen voor vandaag:
+
+1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
+Een digital garden is een persoonlijke website die als doel heeft om creatieve vrijheid te uiten en jouw interesses laten zien.
+
+2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
+Websites die fijn werken, goed leesbaar zijn
+
+3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+<br>
 artikel: "a brief history & ethos of the digital garden"
 <br>
 Samenvatting ervan: Volgens de auteur is Digital gardening een vrij concept wat door de designer zelf wordt ontworpen, layout en informatie hoeft niet te voldoen aan de standaard eisen voor een website. Vroeger werd de term gebruikt om je telefoon en digitale omgeving op te schonen, maar tegenwoordig is het een manier van zelf-expressie en kennis toepassen op het web. Het is constant in ontwikkeling en is nooit "af". Je hebt ook digital gardens die minder technisch zijn, bijvoorbeeld Notion.  
