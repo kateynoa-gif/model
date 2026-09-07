@@ -15,9 +15,11 @@ De checkout vragen voor vandaag:
 Een digital garden is een persoonlijke website die als doel heeft om creatieve vrijheid te uiten en jouw interesses laten zien.
 
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-Websites die fijn werken, goed leesbaar zijn
+Websites die fijn werken, goed leesbaar zijn en leuk om te bezoeken.
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
+een meiden-website waarop je kunt vinden wat te doen als je je verveeld, met leuke films etc
+
 <br>
 artikel: "a brief history & ethos of the digital garden"
 <br>
