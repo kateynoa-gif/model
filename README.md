@@ -12,6 +12,19 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 artikel: "a brief history & ethos of the digital garden"
 <br>
 Samenvatting ervan: Volgens de auteur is Digital gardening een vrij concept wat door de designer zelf wordt ontworpen, layout en informatie hoeft niet te voldoen aan de standaard eisen voor een website. Vroeger werd de term gebruikt om je telefoon en digitale omgeving op te schonen, maar tegenwoordig is het een manier van zelf-expressie en kennis toepassen op het web. Het is constant in ontwikkeling en is nooit "af". Je hebt ook digital gardens die minder technisch zijn, bijvoorbeeld Notion.  
+<br>
+Webby sites
+<br>
+<img width="1072" height="761" alt="Scherm­afbeelding 2026-09-07 om 14 44 08" src="https://github.com/user-attachments/assets/c73423b7-f227-4108-a13c-97cf45eef5be" />
+
+<img width="943" height="687" alt="Scherm­afbeelding 2026-09-07 om 14 44 33" src="https://github.com/user-attachments/assets/f1352c4e-b969-46c2-aceb-abfc31d15a15" />
+
+
+
+
+
+
+
 
 ### 4 sept - [Workshops]
 <br>
