@@ -5,6 +5,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 9 sept - presentaties en online les
+Check out: 
+Mijn garden is een safe space voor meiden om op te kunnen relaxen en inspiratie op te doen, voor muziek, boeken, games, sociale activiteiten etc. Het is de bedoeling dat ze die activiteiten ook buiten het web kunnen uitvoeren, maar ook lekker kunnen chillen en inspiratie opdoen op de site. 
+Het lijkt me leuk om er veel afbeeldingen in te verwerken en zelf getekende illustraties en animaties te maken.
+<br>
+Van mijn crazy 8 wil ik het idee voor cursieve letters, mijn illustraties en de knoppen in de vorm van bijv. bloemen meenemen. 
+<br>
 <img width="397" height="737" alt="Scherm­afbeelding 2026-09-09 om 16 42 08" src="https://github.com/user-attachments/assets/b492dfe2-a082-454b-9d0d-7559fec82e65" />
 
 <img width="403" height="555" alt="Scherm­afbeelding 2026-09-09 om 16 42 41" src="https://github.com/user-attachments/assets/b4648b4f-17c2-4a51-9138-91bf1890eb3d" />
