@@ -5,9 +5,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### 9 sept - presentaties en online les
+<img width="397" height="737" alt="Scherm­afbeelding 2026-09-09 om 16 42 08" src="https://github.com/user-attachments/assets/b492dfe2-a082-454b-9d0d-7559fec82e65" />
+
+<img width="403" height="555" alt="Scherm­afbeelding 2026-09-09 om 16 42 41" src="https://github.com/user-attachments/assets/b4648b4f-17c2-4a51-9138-91bf1890eb3d" />
+<img width="401" height="727" alt="Scherm­afbeelding 2026-09-09 om 16 42 24" src="https://github.com/user-attachments/assets/9bc7d32c-1b54-41bd-ad86-87ca1b30cd54" />
+
+<img width="401" height="371" alt="Scherm­afbeelding 2026-09-09 om 16 42 49" src="https://github.com/user-attachments/assets/71f4705b-7f14-44bc-a41e-b8e714dbe1a7" />
+![Uploading Scherm­afbeelding 2026-09-09 om 16.42.41.png…]()
+
 
 1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
-Het gaat over een gilde-website waar inspiratie en een nostalgische sfeer bovenaan staan.
+Het gaat over een girly-website waar inspiratie en een nostalgische sfeer bovenaan staan.
 <br>
 3. Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
 kwaliteitenlijst??
