@@ -4,7 +4,32 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 9 sept - presentaties en online les
 
+1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
+Het gaat over een gilde-website waar inspiratie en een nostalgische sfeer bovenaan staan.
+<br>
+3. Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
+kwaliteitenlijst??
+<br>
+4. Heeft 'de ander' een aanvulling op je onderwerp?​
+Laura de Vos  vroeg of je kon gamen op mijn website.
+<br>
+5. Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+nostalgisch, rom com, ik wil dat mensen urenlang op mijn website kunnen relaxen en geïnspireerd worden. 
+<br>
+6. Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+Retro, nostalgisch, vrouwelijk.
+<br>
+7. Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​
+ik will tegels maken met afbeeldingen die leiden naar artikelen met bijv info over gameplay etc.
+<br>
+8. Vul deze zin aan:
+Ik wil mijn Digital Garden laten gaan over vrijetijdsbesteding voor meiden.
+en wil dat laten zien door inspirerende content over, muziek, games, boeken, films, etc. te tonen.
+Ik begin met een stukje eigen content over mezelf. ​
+Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door steeds meer inspiratie toe te voegen.
+<br>​
 
 
 
