@@ -18,7 +18,7 @@ Van mijn crazy 8 wil ik het idee voor cursieve letters, mijn illustraties en de 
 
 <img width="401" height="371" alt="Scherm­afbeelding 2026-09-09 om 16 42 49" src="https://github.com/user-attachments/assets/71f4705b-7f14-44bc-a41e-b8e714dbe1a7" />
 ![Uploading Scherm­afbeelding 2026-09-09 om 16.42.41.png…]()
-
+<br>
 
 1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
 Het gaat over een girly-website waar inspiratie en een nostalgische sfeer bovenaan staan.
