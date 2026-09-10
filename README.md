@@ -3,8 +3,25 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 11 sept - werkgroep en deepdives
+
+
 ### 10 sept - zelfstandig werk en deepdives
-zelfstandig de voorbereiding gedaan voor de deep dive light & dark theme.
+Deep dive gradients
+<img width="1190" height="680" alt="Scherm­afbeelding 2026-09-10 om 16 32 39" src="https://github.com/user-attachments/assets/d846d2a3-154d-4072-a052-70e0da660bcf" />
+<img width="1248" height="762" alt="Scherm­afbeelding 2026-09-10 om 16 14 26" src="https://github.com/user-attachments/assets/37810ddd-9470-4965-90f1-0f4e2537b18c" />
+<img width="1270" height="787" alt="Scherm­afbeelding 2026-09-10 om 14 55 53" src="https://github.com/user-attachments/assets/9bc58c8c-84d5-4eda-9d47-209b61a8fd5f" />
+
+
+
+
+
+zelfstandig de voorbereiding gedaan voor de deep dive light & dark theme.<br>
+<img width="1003" height="601" alt="Scherm­afbeelding 2026-09-10 om 12 55 52" src="https://github.com/user-attachments/assets/9bf8ce1a-dd53-48fc-8f4c-797eee288030" />
+<img width="1077" height="685" alt="Scherm­afbeelding 2026-09-10 om 12 55 46" src="https://github.com/user-attachments/assets/ebe7036e-450a-4b63-8574-15cda09cf285" />
+<img width="898" height="655" alt="Scherm­afbeelding 2026-09-10 om 12 07 15" src="https://github.com/user-attachments/assets/6a2978c9-0636-4ba7-94a0-501ce27b8450" />
+<img width="971" height="667" alt="Scherm­afbeelding 2026-09-10 om 12 06 56" src="https://github.com/user-attachments/assets/ab6fc378-c1da-4a1b-82e8-3c756852316c" />
+
 
 
 
