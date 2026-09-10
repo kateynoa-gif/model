@@ -3,6 +3,10 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### 10 sept - zelfstandig werk en deepdives
+zelfstandig de voorbereiding gedaan voor de deep dive light & dark theme.
+
+
 
 ### 9 sept - presentaties en online les
 Check out: 
