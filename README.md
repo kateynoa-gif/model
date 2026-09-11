@@ -4,7 +4,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 ### 11 sept - werkgroep en deepdives
-voorbeeld
+
 
 ### 10 sept - zelfstandig werk en deepdives
 
