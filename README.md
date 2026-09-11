@@ -10,6 +10,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 
 mobile first schetsen
+<br>
 <img width="557" height="742" alt="Scherm­afbeelding 2026-09-11 om 09 38 12" src="https://github.com/user-attachments/assets/deef3ac4-0820-4221-a19a-06725b47b1d7" />
 
 Deep dive gradients
