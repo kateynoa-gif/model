@@ -7,6 +7,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 
 ### 10 sept - zelfstandig werk en deepdives
+
+
+mobile first schetsen
+<img width="557" height="742" alt="Scherm­afbeelding 2026-09-11 om 09 38 12" src="https://github.com/user-attachments/assets/deef3ac4-0820-4221-a19a-06725b47b1d7" />
+
 Deep dive gradients
 <img width="1190" height="680" alt="Scherm­afbeelding 2026-09-10 om 16 32 39" src="https://github.com/user-attachments/assets/d846d2a3-154d-4072-a052-70e0da660bcf" />
 <img width="1248" height="762" alt="Scherm­afbeelding 2026-09-10 om 16 14 26" src="https://github.com/user-attachments/assets/37810ddd-9470-4965-90f1-0f4e2537b18c" />
