@@ -6,14 +6,45 @@
   font-style: normal;
 }
 
+html {
+  color-scheme: light dark;
+
+  --bg: light-dark(lightpink, rgb(200 62 136));
+  --color: light-dark(rgb(200 62 136), lightpink);
+}
+
 h1,
 h2 {
+  text-align: center;
   font-family: "whimsical";
-  font-size: xx-large;
+  font-size: 3em;
 }
 
 body {
-  background-color: lightpink;
-  color: rgb(200, 62, 136);
-  color-scheme: light dark;
+  background-color: var(--bg);
+  color: var(--color);
+}
+
+img {
+  rotate: 20deg;
+  width: 10em;
+  aspect-ratio: 1/1;
+
+  background-color: mintcream;
+
+  clip-path: 
+    shape(
+      from 50% 91%,
+      line to 90% 50%,
+      arc to 50% 9%  of 1%,
+      arc to 10% 50% of 1%
+    );
+}
+}
+
+h1 {
+  font-size: 3em;
+  background-image: linear-gradient(deeppink, lightyellow);
+  background-clip: text;
+  color: transparent;
 }
