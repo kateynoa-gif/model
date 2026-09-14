@@ -3,9 +3,14 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
+
+
+
+
 ### 11 sept - werkgroep en deepdives
 
-Deepdive
+Deepdive grids
 <img width="1065" height="679" alt="Scherm­afbeelding 2026-09-11 om 14 27 18" src="https://github.com/user-attachments/assets/445f6e39-8ae1-48b5-b08d-cb32960e0f7e" />
 <img width="1205" height="664" alt="Scherm­afbeelding 2026-09-11 om 14 59 20" src="https://github.com/user-attachments/assets/4c2a2496-4888-43b6-8f5e-7a0d8b92898e" />
 <img width="1165" height="630" alt="Scherm­afbeelding 2026-09-11 om 15 34 52" src="https://github.com/user-attachments/assets/44377d4a-31e7-4118-a6be-66791dd3845d" />
