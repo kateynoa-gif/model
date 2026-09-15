@@ -4,9 +4,14 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 14 sept - werkgroep
+Leg uit wanneer een websites 'lelijk' wordt
+- wanneer alleen de html te zien is of de css niet correct werkt
+Vertel welke volgende stap je neemt om je website responsive te maken.
+- zorgen dat de grid meebeweegt met grote en kleine schermen.
 
-
-
+Heb je een regel plan om de volgende stap voor vrijdag te maken?
+- ik ga mijn foto's in een grid zetten en illustraties maken
 
 ### 11 sept - werkgroep en deepdives
 
