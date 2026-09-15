@@ -4,14 +4,23 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 14 sept - werkgroep
-Leg uit wanneer een websites 'lelijk' wordt
-- wanneer alleen de html te zien is of de css niet correct werkt
-Vertel welke volgende stap je neemt om je website responsive te maken.
-- zorgen dat de grid meebeweegt met grote en kleine schermen.
 
-Heb je een regel plan om de volgende stap voor vrijdag te maken?
-- ik ga mijn foto's in een grid zetten en illustraties maken
+### 15 sept - deep dive grid
+Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werken.
+
+<img width="1196" height="656" alt="Scherm­afbeelding 2026-09-15 om 16 01 57" src="https://github.com/user-attachments/assets/9b00451b-b7a8-4418-a857-f1bac9c8c037" />
+<img width="1257" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 34 39" src="https://github.com/user-attachments/assets/97cc45e3-a5f8-40a5-8b1f-f67c26664ab3" />
+<img width="1208" height="647" alt="Scherm­afbeelding 2026-09-15 om 15 23 41" src="https://github.com/user-attachments/assets/a879b36a-8f06-4399-9e98-4a5f01456a70" />
+
+
+### 14 sept - werkgroep
+- Leg uit wanneer een websites 'lelijk' wordt
+wanneer alleen de html te zien is of de css niet correct werkt
+- Vertel welke volgende stap je neemt om je website responsive te maken.
+zorgen dat de grid meebeweegt met grote en kleine schermen.
+
+-Heb je een regel plan om de volgende stap voor vrijdag te maken?
+ik ga mijn foto's in een grid zetten en illustraties maken
 
 ### 11 sept - werkgroep en deepdives
 
