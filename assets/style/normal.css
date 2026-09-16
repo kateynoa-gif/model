@@ -5,7 +5,7 @@
   font-weight: 400;
   font-style: normal;
 }
-
+/* MARK: algemeen */
 html {
   display: grid;
   gap: 1em;
@@ -13,29 +13,103 @@ html {
 
   color-scheme: light dark;
 
-  --bg: light-dark(lightpink, rgb(114, 47, 133));
-  --color: light-dark(rgb(221, 78, 154), rgb(189, 123, 207));
+  --bg: light-dark(lightpink, rgb(176, 111, 194));
+  --color: light-dark(rgb(208, 54, 136), rgb(115, 25, 140));
 }
 
+/* MARK: Top */
 h1 {
   text-align: center;
   font-family: "whimsical";
-  font-size: 4em;
+  font-size: 5em;
+  grid-area: h1;
 }
 
 h2 {
   text-align: center;
   font-family: "whimsical";
-  font-size: 3em;
+  font-size: 2em;
+  grid-area: h2;
 }
 
+p {
+  grid-area: p;
+}
+
+header {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-areas:
+    "tekening h1 "
+    "h2 h2 "
+    "p p";
+  place-items: center;
+}
+
+header img:nth-of-type(1) {
+  width: 10em;
+  grid-area: tekening;
+}
+
+/* MARK: body en img */
 body {
   font-family: "whimsical";
   background-color: var(--bg);
   color: var(--color);
 }
 
-ul:nth-of-type(1) li {
+ul:nth-of-type(1) li:nth-of-type(1) {
+  width: 30em;
+  height: 30em;
+
+  background-color: mintcream;
+
+  clip-path: shape(
+    from 50% 91%,
+    line to 90% 50%,
+    arc to 50% 9% of 1%,
+    arc to 10% 50% of 1%
+  );
+
+  display: grid;
+  place-items: center;
+}
+
+ul:nth-of-type(1) li:nth-of-type(2) {
+  width: 30em;
+  height: 30em;
+
+  background-color: mintcream;
+
+  clip-path: shape(
+    from 50% 91%,
+    line to 90% 50%,
+    arc to 50% 9% of 1%,
+    arc to 10% 50% of 1%
+  );
+
+  display: grid;
+  place-items: center;
+}
+
+ul:nth-of-type(1) li:nth-of-type(3) {
+  width: 30em;
+  height: 30em;
+
+  background-color: mintcream;
+
+  clip-path: shape(
+    from 50% 91%,
+    line to 90% 50%,
+    arc to 50% 9% of 1%,
+    arc to 10% 50% of 1%
+  );
+
+  display: grid;
+  place-items: center;
+}
+
+ul:nth-of-type(1) li:nth-of-type(4) {
   width: 30em;
   height: 30em;
 
@@ -62,7 +136,8 @@ img {
   display: block;
 }
 
-p {
+h3 {
+  color: aliceblue;
   z-index: 1;
   grid-column-start: 1;
   grid-row-start: 1;
@@ -71,26 +146,70 @@ p {
 ul {
   display: grid;
   grid-template-columns: 1fr;
-  /* grid-template-rows: auto; */
-  grid-template-areas:
-    "foto"
-    "foto"
-    "foto"
-    "foto";
+
   justify-items: center;
 }
 
-ul {
-  grid-area: foto;
-}
+@media (width>1200px) {
+  li {
+    font-size: 1.2em;
+  }
 
-@media (min-width: 420px) {
   ul {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    /* grid-template-rows: auto; */
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-template-areas:
-      "foto foto"
-      "foto foto";
+      "fotom muziektext fotof filmstext"
+      "gamestext fotog bookstext fotob ";
+    gap: 3em;
+  }
+  li:nth-of-type(1) {
+    grid-area: fotom;
+  }
+
+  li:nth-of-type(2) {
+    grid-area: fotof;
+  }
+
+  li:nth-of-type(3) {
+    grid-area: fotog;
+  }
+
+  li:nth-of-type(4) {
+    grid-area: fotob;
+  }
+
+  li:nth-of-type(5) {
+    grid-area: muziektext;
+  }
+
+  li:nth-of-type(6) {
+    grid-area: filmstext;
+  }
+
+  li:nth-of-type(7) {
+    grid-area: gamestext;
+  }
+
+  li:nth-of-type(8) {
+    grid-area: bookstext;
+  }
+
+  ul:nth-of-type(1) li:nth-of-type(1) {
+    width: 10em;
+    height: 10em;
+  }
+
+  ul:nth-of-type(1) li:nth-of-type(2) {
+    width: 10em;
+    height: 10em;
+  }
+
+  ul:nth-of-type(1) li:nth-of-type(3) {
+    width: 10em;
+    height: 10em;
+  }
+  ul:nth-of-type(1) li:nth-of-type(4) {
+    width: 10em;
+    height: 10em;
   }
 }
