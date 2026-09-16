@@ -1,4 +1,3 @@
-/* HIER KOMT JOUW CSS */
 @font-face {
   font-family: "whimsical";
   src: url(../Whimsical\ LoveS\ tory.otf);
@@ -32,6 +31,13 @@ h2 {
   grid-area: h2;
 }
 
+h3 {
+  color: aliceblue;
+  font-size: 5em;
+  z-index: 1;
+  margin: 0;
+}
+
 p {
   grid-area: p;
 }
@@ -56,6 +62,9 @@ header img:nth-of-type(1) {
   grid-area: tekening;
 }
 
+header a {
+  grid-area: tekening;
+}
 /* MARK: body en img */
 body {
   font-family: "whimsical";
@@ -78,6 +87,15 @@ ul:nth-of-type(1) li:nth-of-type(1) {
 
   display: grid;
   place-items: center;
+}
+
+ul:nth-of-type(1) li > a {
+  display: grid;
+  width: 100%;
+  height: 100%;
+  place-items: center;
+  text-decoration: none;
+  cursor: pointer;
 }
 
 ul:nth-of-type(1) li:nth-of-type(2) {
@@ -138,11 +156,9 @@ ul:nth-of-type(1) li:nth-of-type(n + 5) {
 img {
   grid-column-start: 1;
   grid-row-start: 1;
-
   width: 100%;
   height: 100%;
   object-fit: cover;
-  display: block;
 }
 
 h3 {
