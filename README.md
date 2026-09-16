@@ -4,14 +4,38 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 14 sept - werkgroep
-Leg uit wanneer een websites 'lelijk' wordt
-- wanneer alleen de html te zien is of de css niet correct werkt
-Vertel welke volgende stap je neemt om je website responsive te maken.
-- zorgen dat de grid meebeweegt met grote en kleine schermen.
+### 16 sept - schetsen
+Nieuwe schetsen gemaakt voor mijn desktop-first versie.
+<br>
+<img width="436" height="694" alt="Scherm­afbeelding 2026-09-16 om 10 47 54" src="https://github.com/user-attachments/assets/ea8acd3e-4a8a-4c8f-be3f-58d9dfdecd45" />
+<img width="705" height="533" alt="Scherm­afbeelding 2026-09-16 om 10 47 44" src="https://github.com/user-attachments/assets/e6a42841-55b5-483b-985f-90c776c84a05" />
+<img width="695" height="522" alt="Scherm­afbeelding 2026-09-16 om 10 47 33" src="https://github.com/user-attachments/assets/0f1dd73f-aa6f-4676-b6e4-69d7ee049fcc" />
+<br>
 
-Heb je een regel plan om de volgende stap voor vrijdag te maken?
-- ik ga mijn foto's in een grid zetten en illustraties maken
+
+
+
+### 15 sept - deep dive grid
+Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werken.
+
+<img width="1196" height="656" alt="Scherm­afbeelding 2026-09-15 om 16 01 57" src="https://github.com/user-attachments/assets/9b00451b-b7a8-4418-a857-f1bac9c8c037" />
+<img width="1257" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 34 39" src="https://github.com/user-attachments/assets/97cc45e3-a5f8-40a5-8b1f-f67c26664ab3" />
+<img width="1208" height="647" alt="Scherm­afbeelding 2026-09-15 om 15 23 41" src="https://github.com/user-attachments/assets/a879b36a-8f06-4399-9e98-4a5f01456a70" />
+
+
+### 14 sept - werkgroep
+<img width="1117" height="763" alt="Scherm­afbeelding 2026-09-16 om 10 53 27" src="https://github.com/user-attachments/assets/97468919-ee5c-4576-8c92-f91d01631d7d" />
+<img width="2122" height="1390" alt="image" src="https://github.com/user-attachments/assets/a3f8c1bd-a1bd-4e00-a5ca-716de60a568a" />
+
+
+
+- Leg uit wanneer een websites 'lelijk' wordt
+wanneer alleen de html te zien is of de css niet correct werkt
+- Vertel welke volgende stap je neemt om je website responsive te maken.
+zorgen dat de grid meebeweegt met grote en kleine schermen.
+
+-Heb je een regel plan om de volgende stap voor vrijdag te maken?
+ik ga mijn foto's in een grid zetten en illustraties maken
 
 ### 11 sept - werkgroep en deepdives
 
