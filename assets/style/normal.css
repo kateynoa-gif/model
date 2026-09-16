@@ -44,11 +44,11 @@ p {
 
 header {
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: auto;
   grid-template-areas:
-    "section section "
-    "h2 h2 "
-    "p p";
+    "section "
+    "h2  "
+    "p";
   place-items: center;
 }
 section {
@@ -178,16 +178,21 @@ ul {
 
 /* MARK: responsive */
 @media (width>768px) {
-  section {
-    display: contents;
+  h1 {
+    grid-area: tekening;
   }
+
+  header a {
+    grid-area: tekening;
+  }
+
   header {
     display: grid;
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr;
     grid-template-areas:
-      "tekening h1"
-      "h2 h2 "
-      "p p";
+      "section"
+      "h2"
+      "p";
     place-items: center;
   }
 
