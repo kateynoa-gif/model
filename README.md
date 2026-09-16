@@ -24,6 +24,11 @@ Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werke
 
 
 ### 14 sept - werkgroep
+<img width="1117" height="763" alt="Scherm­afbeelding 2026-09-16 om 10 53 27" src="https://github.com/user-attachments/assets/97468919-ee5c-4576-8c92-f91d01631d7d" />
+<img width="2122" height="1390" alt="image" src="https://github.com/user-attachments/assets/a3f8c1bd-a1bd-4e00-a5ca-716de60a568a" />
+
+
+
 - Leg uit wanneer een websites 'lelijk' wordt
 wanneer alleen de html te zien is of de css niet correct werkt
 - Vertel welke volgende stap je neemt om je website responsive te maken.
