@@ -6,10 +6,11 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 16 sept - schetsen
 Nieuwe schetsen gemaakt voor mijn desktop-first versie.
+<br>
 <img width="436" height="694" alt="Scherm­afbeelding 2026-09-16 om 10 47 54" src="https://github.com/user-attachments/assets/ea8acd3e-4a8a-4c8f-be3f-58d9dfdecd45" />
 <img width="705" height="533" alt="Scherm­afbeelding 2026-09-16 om 10 47 44" src="https://github.com/user-attachments/assets/e6a42841-55b5-483b-985f-90c776c84a05" />
 <img width="695" height="522" alt="Scherm­afbeelding 2026-09-16 om 10 47 33" src="https://github.com/user-attachments/assets/0f1dd73f-aa6f-4676-b6e4-69d7ee049fcc" />
-
+<br>
 
 
 
