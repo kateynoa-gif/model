@@ -13,7 +13,7 @@ html {
   color-scheme: light dark;
 
   --bg: light-dark(lightpink, rgb(176, 111, 194));
-  --color: light-dark(rgb(208, 54, 136), rgb(115, 25, 140));
+  --color: light-dark(rgb(179, 47, 117), rgb(115, 25, 140));
 }
 
 /* MARK: Top */
@@ -40,8 +40,18 @@ h3 {
   grid-row-start: 1;
 }
 
+h4 {
+  text-align: center;
+  font-family: "whimsical";
+  font-size: 2em;
+  grid-area: h2;
+}
 p {
   grid-area: p;
+}
+
+ol {
+  font-size: 24px;
 }
 
 header {
@@ -192,6 +202,10 @@ ul {
 
   li {
     font-size: 0.2em;
+  }
+
+  ol {
+    font-size: 60px;
   }
 
   ul {
