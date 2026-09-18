@@ -1,8 +1,9 @@
-# Model 
+# Model van Kate
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+
 ### 18 sept - checkout en beoordeling
 
 
