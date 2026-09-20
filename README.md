@@ -37,7 +37,7 @@ Ik vond deze retrospective niet veel inzicht geven, dat kreeg ik meer door mijn 
 
 ### 16 sept - schetsen
 
-Nieuwe schetsen gemaakt voor mijn desktop-first versie.
+Nieuwe schetsen gemaakt voor mijn desktop-first versie. Ik heb geleerd dat ik met adobe capture foto's kan inscannen en deze met Canva kan inkleuren. (iets wat ik nog veel vaker ga gebruiken na dit te weten gekomen zijn)
 <br>
 <img width="436" height="694" alt="Scherm­afbeelding 2026-09-16 om 10 47 54" src="https://github.com/user-attachments/assets/ea8acd3e-4a8a-4c8f-be3f-58d9dfdecd45" />
 <img width="705" height="533" alt="Scherm­afbeelding 2026-09-16 om 10 47 44" src="https://github.com/user-attachments/assets/e6a42841-55b5-483b-985f-90c776c84a05" />
