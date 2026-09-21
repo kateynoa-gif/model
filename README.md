@@ -4,6 +4,23 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### 21 sept - Gezamenlijke codeer les
+
+Wat zijn html landmark role elements
+
+- De volgorde van de html en de opbouw.
+
+Wat zijn heading elementen en hoe horen deze genest te worden?
+
+- De titel etc zit genest in de header, en in de main zitten artikelen.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+- Ik accepteer ze meestal wel, maar ben er na deze les voorzichtiger mee.
+
+
+
 ### 18 sept - checkout en beoordeling
 
 Oriënteren en begrijpen
