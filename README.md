@@ -11,9 +11,13 @@ Tijdens deze deepdive heb ik gewerkt met buttons, ik snap redenlijk nu hoe deze 
 
 <img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" /> 
 
-### 21 sept - Gezamenlijke codeer les
+### 21 sept - Gezamenlijke codeer les 
 
-![Uploading Scherm­afbeelding 2026-09-22 om 20.06.22.png…]()
+Opdracht cookies accepteren met Lysanne gemaakt.
+
+<img width="1060" height="768" alt="Scherm­afbeelding 2026-09-22 om 20 14 34" src="https://github.com/user-attachments/assets/ba4ab006-2a7d-4765-889c-59be902a5747" />
+
+
 
 
 Wat zijn html landmark role elements
