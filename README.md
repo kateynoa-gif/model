@@ -1,9 +1,14 @@
+
 # Model van Kate
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
 
+
+### 22 sept - Deep dives en huiswerk gemaakt
+
+<img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" /> 
 
 ### 21 sept - Gezamenlijke codeer les
 
