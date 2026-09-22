@@ -7,6 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 
 ### 22 sept - Deep dives en huiswerk gemaakt
+Tijdens deze deepdive heb ik gewerkt met buttons, ik snap redenlijk nu hoe deze werken.
 
 <img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" /> 
 
