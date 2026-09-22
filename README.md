@@ -12,6 +12,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 21 sept - Gezamenlijke codeer les
 
+![Uploading Scherm­afbeelding 2026-09-22 om 20.06.22.png…]()
+
+
 Wat zijn html landmark role elements
 
 - De volgorde van de html en de opbouw.
