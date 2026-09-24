@@ -1,10 +1,19 @@
 
+
 # Model van Kate
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
 
+### 24 sept - Huiswerk gemaakt en aan cookie pop up en code gewerkt
+
+
+### 23 sept - Les gehad over cookies
+
+wireframes en een wireflow van ZARA website, dark patterns eronder beschreven. 
+
+<img width="1072" height="752" alt="Scherm­afbeelding 2026-09-24 om 12 55 26" src="https://github.com/user-attachments/assets/e1c6103f-410c-4366-ab40-96aa167b4d81" />
 
 ### 22 sept - Deep dives en huiswerk gemaakt
 Tijdens deze deepdive heb ik gewerkt met buttons, ik snap redenlijk nu hoe deze werken.
