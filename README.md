@@ -10,6 +10,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 
 ### 23 sept - Les gehad over cookies
+checkout:
+
+Wat is een wireflow en wat heb je er aan?
+- het laat de stappen in een app/website zien, je kunt hier snel mee zien hoe een systeem werkt en wat je er aan hebt/mee kan.
+
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+- roach motel: ergens niet meer uit komen of in verdwalen, urgentie creëren: een vals gevoel van urgentie geven die inspeelt op de stress van de koper, highlights: bepaalde knoppen een andere kleur of uiterlijk geven wat de gebruiker manipuleert dat dit de "juiste" keus is.
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+- Dat de gebruiker mogelijk de website niet kan gebruiken als ze geen consent geven
 
 wireframes en een wireflow van ZARA website, dark patterns eronder beschreven. 
 
