@@ -8,6 +8,9 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### 24 sept - Huiswerk gemaakt en aan cookie pop up en code gewerkt
 
+Ik heb besloten om mijn website te veranderen, ik houd het nogsteeds erg girlie maar wil door mijn eerdere tekening graag deze kant op leunen, ik denk ook dat deze extra toevoeging aan mijn thema ervoor zorgt dat de website meer "speels" aanvoelt en bijdraagt aan het meisjesachtige en kinderlijke van mijn thema.
+
+<img width="546" height="772" alt="Scherm­afbeelding 2026-09-24 om 14 17 10" src="https://github.com/user-attachments/assets/3d788daa-b1ea-4931-9876-2282654971f1" />
 
 ### 23 sept - Les gehad over cookies
 checkout:
