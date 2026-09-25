@@ -6,6 +6,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### 24 sept - deep dive
+
+Deep dive positions en dialogs 
+- Ik heb in deze deep dive geleerd hoe ik de positie vastzet, ik kan mijn cookie vastzetten aan de bovenkant van het scherm, die dan blijft plakken.
+  
+<img width="1233" height="706" alt="Scherm­afbeelding 2026-09-25 om 14 39 08" src="https://github.com/user-attachments/assets/6f565435-52fe-404a-ab8f-784dcfc49289" />
+
 ### 24 sept - Huiswerk gemaakt en aan cookie pop up en code gewerkt
 
 
