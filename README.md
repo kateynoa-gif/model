@@ -1,20 +1,106 @@
+
+
 # Model van Kate
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
 
+### 24 sept - deep dive
+
+Deep dive positions en dialogs 
+- Ik heb in deze deep dive geleerd hoe ik de positie vastzet, ik kan mijn cookie vastzetten aan de bovenkant van het scherm, die dan blijft plakken.
+  
+<img width="1233" height="706" alt="Scherm­afbeelding 2026-09-25 om 14 39 08" src="https://github.com/user-attachments/assets/6f565435-52fe-404a-ab8f-784dcfc49289" />
+
+### 24 sept - Huiswerk gemaakt en aan cookie pop up en code gewerkt
+
+
+<img width="490" height="322" alt="Scherm­afbeelding 2026-09-24 om 15 39 55" src="https://github.com/user-attachments/assets/7e1e9292-09f2-4577-926e-fc9bdca18ce6" />
+<img width="1317" height="605" alt="Scherm­afbeelding 2026-09-24 om 19 50 40" src="https://github.com/user-attachments/assets/455bed4f-695e-4cb2-9040-da31a9d6fa56" />
+
+Ik heb besloten om mijn website te veranderen, ik houd het nogsteeds erg girlie maar wil door mijn eerdere tekening graag deze kant op leunen, ik denk ook dat deze extra toevoeging aan mijn thema ervoor zorgt dat de website meer "speels" aanvoelt en bijdraagt aan het meisjesachtige en kinderlijke van mijn thema.
+
+<img width="546" height="772" alt="Scherm­afbeelding 2026-09-24 om 14 17 10" src="https://github.com/user-attachments/assets/3d788daa-b1ea-4931-9876-2282654971f1" />
+
+### 23 sept - Les gehad over cookies
+checkout:
+
+Wat is een wireflow en wat heb je er aan?
+- het laat de stappen in een app/website zien, je kunt hier snel mee zien hoe een systeem werkt en wat je er aan hebt/mee kan.
+
+Wat zijn dark UX patterns? Geef drie voorbeelden...
+- roach motel: ergens niet meer uit komen of in verdwalen, urgentie creëren: een vals gevoel van urgentie geven die inspeelt op de stress van de koper, highlights: bepaalde knoppen een andere kleur of uiterlijk geven wat de gebruiker manipuleert dat dit de "juiste" keus is.
+
+Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+- Dat de gebruiker mogelijk de website niet kan gebruiken als ze geen consent geven
+
+wireframes en een wireflow van ZARA website, dark patterns eronder beschreven. 
+
+<img width="1072" height="752" alt="Scherm­afbeelding 2026-09-24 om 12 55 26" src="https://github.com/user-attachments/assets/e1c6103f-410c-4366-ab40-96aa167b4d81" />
+
+### 22 sept - Deep dives en huiswerk gemaakt
+Tijdens deze deepdive heb ik gewerkt met buttons, ik snap redenlijk nu hoe deze werken.
+
+<img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" /> 
+
+### 21 sept - Gezamenlijke codeer les 
+
+Opdracht cookies accepteren met Lysanne gemaakt.
+
+<img width="1060" height="768" alt="Scherm­afbeelding 2026-09-22 om 20 14 34" src="https://github.com/user-attachments/assets/ba4ab006-2a7d-4765-889c-59be902a5747" />
+
+
+
+
+Wat zijn html landmark role elements
+
+- De volgorde van de html en de opbouw.
+
+Wat zijn heading elementen en hoe horen deze genest te worden?
+
+- De titel etc zit genest in de header, en in de main zitten artikelen.
+
+Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
+
+- Ik accepteer ze meestal wel, maar ben er na deze les voorzichtiger mee.
+
+
+
 ### 18 sept - checkout en beoordeling
+
+Oriënteren en begrijpen
+
+De docenten geven ons de opdracht voor het Digitale tuintje zodat we beter leren coderen, leren hoe je de layout voor een website ontwerpt en het concept van een digitaal tuintje begrijpt. Door zelf te doen leer je het meeste. De technieken die ik gebruik zijn HTML en natuurlijk CSS, maar ook schetsen en ontwerpen en alle voorkennis die ik nodig heb voor een website design. Qua randvoorwaarden vind ik dat mijn website nog wel iets kan verbeteren, aangezien we niet erg lang hadden voor het ontwerp is dit ook wel te verwachten. Mijn website is nog niet toegankelijk (genoeg) en het kan veel meer Webby qua vormgeving en functies. Ik gebruik html en css voor hun doeleinden, html voor de informatie ín de pagina en css voor de vormgeving van de pagina. Css kan gebruikt worden voor foto's, om zelf patronen en "plaatjes" te genereren en van allerlei dingen met de layout te doen.
+
+Verbeelden en conceptualiseren
+
+Ik heb al een aantal verschillende concepten bedacht maar merk dat ik het moeilijk vind om buiten een standaard webpagina te denken, en out of te box. Verder ben ik erg goed in het schetsen en komen met nieuwe ideeën. Ik vond het erg behulpzaam om tijdens de lessen ideeën voor elkaar te bedenken.
+Ik heb met css gradients veel ideeën bedacht maar vond deze uiteindelijk toch niet bij mijn pagina passen. De HTMl die ik nodig heb staat ook zo opgebouwd op mijn pagina, ik heb hier met mijn CSS vormgeving aan gegeven door gebruik te maken van O.A. grids, clip paths en fonts.
+
+Prototypen en uitwerken
+
+Ik heb nog niet echt getest met een mijn prototype, dus weet niet goed hoe de site overkomt op een vreemde. De opdrachtgever, waarin in dit voorbeeld even Sanne gebruik, vind mijn idee leuk, maar vind dat de uitwerking nog veel beter kan (en daar ben ik het mee eens). Mijn idee werkt wel, maar duurt ongelofelijk lang om te coderen en uit te zoeken hoe dit moet, mijn hartjes zijn bijvoorbeeld erg moeilijk in elkaar gestoken, waarom je hier niet makkelijk iets aan kunt veranderen, dit komt vooral doordat ik veel verschillende mensen om hulp heb gevraagd en die het allen net even anders aanpakken...
+
+Evalueren
+
+Wat ik wilde weten/bereiken is of ik een website kon coderen waar je mijn persoonlijke interesse op kunt vinden en als gebruiker kunt relaxen. Ik heb geschetst, code getypt, mijn proces bijgehouden en ergggg veel geleerd over css in alle deep dives.
+Ik merkte dat het mij persoonlijk erg hielp om bij de deep dives te zijn en om hulp in persoon te vragen zodat ik het echt grondig begrijp. Ik vond na al deze moeite het resultaat erg matig, ik merkte dat ik altijd erg unieke resultaten wil, die dan moeilijker te coderen zijn, de volgende keer zal ik mijn ideeën haalbaarder maken. Ik weet nog lang niet alles van code en vind dit over het algemeen een moeilijk onderwerp, ik heb moeite met de exacte formuleringen opschrijven van de codes en bijvoorbeeld grids. 
+Ik vind coderen ook niet echt leuk en doe het liever niet, ik vind het wel erg cool om iets van mezelf op het web te hebben en probeer hier zo goed als mogelijk in te worden. Ik merk dat de eisen voor deze opdracht voor mij momenteel erg vaag zijn, en dat ik deze even moet opfrissen.
+
 
 
 Retrospective
+
+Ik vond deze retrospective niet veel inzicht geven, dat kreeg ik meer door mijn beoordelingsgesprek.
 <img width="1106" height="765" alt="Scherm­afbeelding 2026-09-18 om 11 25 08" src="https://github.com/user-attachments/assets/e8465638-d90c-4683-8c3d-3516b36d31fa" />
 <img width="1101" height="769" alt="Scherm­afbeelding 2026-09-18 om 11 24 44" src="https://github.com/user-attachments/assets/ed9fd21b-0d04-4e5b-aa20-7212bbc15534" />
 <img width="1190" height="753" alt="Scherm­afbeelding 2026-09-18 om 11 24 22" src="https://github.com/user-attachments/assets/d1f25d0d-2d9f-41a0-a974-c14d4580e1f0" />
 
 
 ### 16 sept - schetsen
-Nieuwe schetsen gemaakt voor mijn desktop-first versie.
+
+Nieuwe schetsen gemaakt voor mijn desktop-first versie. Ik heb geleerd dat ik met adobe capture foto's kan inscannen en deze met Canva kan inkleuren. (iets wat ik nog veel vaker ga gebruiken na dit te weten gekomen zijn)
 <br>
 <img width="436" height="694" alt="Scherm­afbeelding 2026-09-16 om 10 47 54" src="https://github.com/user-attachments/assets/ea8acd3e-4a8a-4c8f-be3f-58d9dfdecd45" />
 <img width="705" height="533" alt="Scherm­afbeelding 2026-09-16 om 10 47 44" src="https://github.com/user-attachments/assets/e6a42841-55b5-483b-985f-90c776c84a05" />
@@ -25,6 +111,7 @@ Nieuwe schetsen gemaakt voor mijn desktop-first versie.
 
 
 ### 15 sept - deep dive grid
+
 Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werken.
 
 <img width="1196" height="656" alt="Scherm­afbeelding 2026-09-15 om 16 01 57" src="https://github.com/user-attachments/assets/9b00451b-b7a8-4418-a857-f1bac9c8c037" />
@@ -33,17 +120,22 @@ Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werke
 
 
 ### 14 sept - werkgroep
+
 <img width="1117" height="763" alt="Scherm­afbeelding 2026-09-16 om 10 53 27" src="https://github.com/user-attachments/assets/97468919-ee5c-4576-8c92-f91d01631d7d" />
 <img width="2122" height="1390" alt="image" src="https://github.com/user-attachments/assets/a3f8c1bd-a1bd-4e00-a5ca-716de60a568a" />
 
 
 
 - Leg uit wanneer een websites 'lelijk' wordt
+
 wanneer alleen de html te zien is of de css niet correct werkt
+
 - Vertel welke volgende stap je neemt om je website responsive te maken.
+
 zorgen dat de grid meebeweegt met grote en kleine schermen.
 
 -Heb je een regel plan om de volgende stap voor vrijdag te maken?
+
 ik ga mijn foto's in een grid zetten en illustraties maken
 
 ### 11 sept - werkgroep en deepdives
