@@ -6,7 +6,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### 24 sept - deep dive
+### maandag 28 sept - deep dive
+
+Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+- Het doelt op hetzelfde, de user experience van html heeft te maken met de semantiek.
+
+Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+- visueel, audiotief en cognitief
+- 
+Noem drie manieren om door een website te navigeren met jouw screenreader.
+- tap, pijltjes en spatie
+
+### 25 sept - deep dive
 
 Deep dive positions en dialogs 
 - Ik heb in deze deep dive geleerd hoe ik de positie vastzet, ik kan mijn cookie vastzetten aan de bovenkant van het scherm, die dan blijft plakken.
