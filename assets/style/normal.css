@@ -69,6 +69,8 @@ body {
   background: var(--bg);
   color: var(--color);
   margin: 0 0 0 0;
+}
+
 
   /**************************
 * MARK: Grid Styling
@@ -145,8 +147,6 @@ main h2 {
   text-align: center;
 }
 
-
-
 ol {
   font-family: "written", bold;
 }
@@ -215,6 +215,11 @@ h4 {
   font-size: var(--step-0);
 }
 
+/**************************
+* MARK: Media > 60em
+**************************/
+
+
 @media (width > 60em) {
   main {
     grid-template-columns: 1fr 1fr;
@@ -232,13 +237,18 @@ h4 {
 **************************/
 
 [popover] {
+  font-size: 2em;
   font-family: "written", cursive;
   background: var(--bg);
-  color: var(--color);
+  color: var(--accent-color);
   padding: var(--whitespace);
   border-radius: 1em;
   text-align: center;
+  width: min(60rem, calc(100vw - 2rem));
 }
+
+}
+
 [popover] h2 {
   font-family: "whimsical", serif;
 }
