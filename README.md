@@ -6,7 +6,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### maandag 28 sept - deep dive
+
+### dinsdag 29 sept - deep dive & popup gemaakt 
+
+<img width="1294" height="680" alt="Scherm­afbeelding 2026-09-28 om 10 09 07" src="https://github.com/user-attachments/assets/736346a0-3bc8-4ebc-9362-cc7518a05dd3" />
+
+
+### maandag 28 sept - bi weekly geek
+
+<img width="1077" height="732" alt="Scherm­afbeelding 2026-09-29 om 20 45 09" src="https://github.com/user-attachments/assets/d1179f19-2d9e-4503-9a39-c189b09445f7" />
+
+<img width="906" height="602" alt="Scherm­afbeelding 2026-09-29 om 20 45 48" src="https://github.com/user-attachments/assets/9deae02c-bf9e-4f57-ac09-a772ec019e87" />
+
 
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 - Het doelt op hetzelfde, de user experience van html heeft te maken met de semantiek.
