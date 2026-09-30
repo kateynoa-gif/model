@@ -6,6 +6,22 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### dinsdag 30 sept - les & checkout
+
+Waar staat WCAG en A11y voor?
+- wacg zijn richtlijnen en de A11y is de leesbare vertaling ervan
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+- beide vind ik moeilijk, en beide moet ik nog mee oefenen.
+  
+Met welke beperking rekening houden vind je het meest lastig?
+- het hele coderen vind ik erg lastig, ik vind het moeilijk om mijn ideeën om te zetten in codeer-taal en hier nog creatief mee zijn.
+
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+(Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden)
+- Ja, ik merk hel erg dat het mijn creatieve vrijheid belemmert en dat ik het moeilijk vind om elementen toe te voegen. 
+
+<img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/f99186bc-2a90-4dd2-88a3-1a36088ee20d" />
 
 ### dinsdag 29 sept - deep dive & popup gemaakt 
 
