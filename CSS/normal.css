@@ -25,8 +25,8 @@
 html {
   color-scheme: light dark;
 
-  --bg: light-dark(lightpink, rgb(176, 111, 194));
-  --color: light-dark(rgb(179, 47, 117), rgb(115, 25, 140));
+  --bg: light-dark(rgb(243, 157, 207), rgb(212, 148, 230));
+  --color: light-dark(rgb(178, 23, 105), rgb(104, 7, 112));
   --accent-color: #ba8360;
   --border-width: 0.1em;
 
@@ -138,6 +138,10 @@ main {
     "films  films  films "
     "games  games  games "
     "boeken boeken boeken";
+}
+
+main p {
+  font-size: var(--step-1);
 }
 
 main h2 {
@@ -260,7 +264,7 @@ h4 {
 
 footer {
   grid-area: footer;
-  background: var(--bg);
+  background: var(--color);
   padding: var(--whitespace);
 
   nav {
