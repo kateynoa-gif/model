@@ -6,6 +6,18 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### donderdag 1 okt - website bijgewerkt
+
+Aanpassingen:
+- leesbaarheid beter gemaakt door hoger contrast
+- text vergroot en in het midden outgelined
+- onderaan nav bar toegevoegd voor easy acces
+- cookie popup beter leesbaar gemaakt met kleur
+- hartjes gedraaid zoals origineel idee
+- alles in mapjes gezet en er opnieuw naar verwezen
+- overige code verwijdert
+
 ### dinsdag 30 sept - WCAG & checkout
 
 Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website. 
