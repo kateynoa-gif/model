@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "whimsical";
-  src: url("Whimsical LoveS tory.otf");
+  src: url("../assets/style/Whimsical LoveS tory.otf");
   font-weight: 400;
   font-style: normal;
 }
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: "written";
-  src: url("writtenonhishands.ttf");
+  src: url("../assets/style/writtenonhishands.ttf");
   font-weight: 400;
   font-style: normal;
 }
@@ -27,7 +27,7 @@ html {
 
   --bg: light-dark(lightpink, rgb(176, 111, 194));
   --color: light-dark(rgb(179, 47, 117), rgb(115, 25, 140));
-  --accent-color:#ba8360;
+  --accent-color: #ba8360;
   --border-width: 0.1em;
 
   --whitespace: 2em;
@@ -68,17 +68,16 @@ body {
     serif;
   background: var(--bg);
   color: var(--color);
-  margin: 0 0 0 0;
+  margin: 0;
 }
 
-
-  /**************************
-* MARK: Grid Styling
+/**************************
+* MARK: Header
 **************************/
 
 header {
   background: var(--bg);
-  padding: var(--whitespace);
+  padding: var(--whitespace) var(--whitespace) 0;
   max-width: 75rem;
   margin-inline: auto;
 
@@ -89,7 +88,6 @@ header {
     "titel titel  titel";
   gap: var(--whitespace);
 }
-
 
 header button {
   grid-area: koekje;
@@ -115,6 +113,8 @@ header h1 {
   grid-area: titel;
   text-align: center;
   font-size: var(--step-6);
+  margin: 0;
+  line-height: 0.8;
 }
 
 /**************************
@@ -124,8 +124,8 @@ header h1 {
 main {
   background: var(--bg);
   padding: var(--whitespace);
- max-width: 75rem;
-  margin-inline: auto; 
+  max-width: 75rem;
+  margin-inline: auto;
 
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
@@ -133,7 +133,7 @@ main {
 
   grid-template-areas:
     ".      subkop .     "
-    "me     text   text  "
+    "me     text   text "
     "muziek muziek muziek"
     "films  films  films "
     "games  games  games "
@@ -147,21 +147,23 @@ main h2 {
   text-align: center;
 }
 
+p,
 ol {
-  font-family: "written", bold;
+  font-family: "written";
 }
 
 main > a:nth-of-type(1) {
   grid-area: me;
+  justify-self: center;
   img {
-     width: min(100%, 10rem);
+    width: min(100%, 10rem);
   }
 }
 
 main p:nth-of-type(1) {
-  font-family:"written";
+  font-family: "written";
   grid-area: text;
-    /* text-align: left; */
+  text-align: left;
 }
 
 main > a:nth-of-type(2) {
@@ -169,6 +171,7 @@ main > a:nth-of-type(2) {
 
   img {
     width: 100%;
+    rotate: -30deg;
   }
 }
 
@@ -177,6 +180,7 @@ main > a:nth-of-type(3) {
 
   img {
     width: 100%;
+    rotate: 30deg;
   }
 }
 
@@ -185,6 +189,7 @@ main > a:nth-of-type(4) {
 
   img {
     width: 100%;
+    rotate: -30deg;
   }
 }
 
@@ -193,6 +198,7 @@ main > a:nth-of-type(5) {
 
   img {
     width: 100%;
+    rotate: 30deg;
   }
 }
 
@@ -206,12 +212,12 @@ body > image {
 }
 
 h3 {
-  font-family:"written";
-  font-size: var(--step-1);
+  font-family: "written";
+  font-size: var(--step-2);
 }
 
 h4 {
-  font-family:"written";
+  font-family: "written";
   font-size: var(--step-0);
 }
 
@@ -219,19 +225,16 @@ h4 {
 * MARK: Media > 60em
 **************************/
 
-
 @media (width > 60em) {
   main {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
-      "subkop subkop"
-      "me     text  "
-      "muziek films "
-      "games  boeken";
+      "subkop subkop subkop subkop"
+      "me     text   text   .     "
+      "muziek muziek films  films "
+      "games  games  boeken boeken";
   }
 }
-
-
 /**************************
 * MARK: cookie popup
 **************************/
@@ -239,14 +242,12 @@ h4 {
 [popover] {
   font-size: 2em;
   font-family: "written", cursive;
-  background: var(--bg);
-  color: var(--accent-color);
+  background: var(--accent-color);
+  color: black;
   padding: var(--whitespace);
   border-radius: 1em;
   text-align: center;
   width: min(60rem, calc(100vw - 2rem));
-}
-
 }
 
 [popover] h2 {
@@ -256,14 +257,10 @@ h4 {
 /**************************
 * MARK: Footer
 **************************/
+
 footer {
   grid-area: footer;
-}
-
-
-footer {
   background: var(--bg);
-  /* grid-area: footer; /* Colums hier aanpassen */
   padding: var(--whitespace);
 
   nav {
@@ -288,3 +285,4 @@ footer {
       }
     }
   }
+}
