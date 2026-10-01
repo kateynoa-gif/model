@@ -6,7 +6,25 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### dinsdag 30 sept - les & checkout
+### dinsdag 30 sept - WCAG & checkout
+
+
+
+<img width="549" height="338" alt="Scherm­afbeelding 2026-10-01 om 13 03 52" src="https://github.com/user-attachments/assets/38e399f6-0dea-4235-802d-e5caf05b9256" />
+<img width="570" height="395" alt="Scherm­afbeelding 2026-10-01 om 13 03 46" src="https://github.com/user-attachments/assets/4e977132-74cf-4602-9cd8-69c1c7352b39" />
+<img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/6252254c-e9fa-4db7-8981-f250cefdad15" />
+
+
+<img width="597" height="773" alt="Scherm­afbeelding 2026-10-01 om 13 01 23" src="https://github.com/user-attachments/assets/5896891d-c17a-4c38-883d-9b82e2422bc4" />
+
+<img width="521" height="649" alt="Scherm­afbeelding 2026-10-01 om 13 02 12" src="https://github.com/user-attachments/assets/549ff12a-4858-4c16-ba0f-250c4e5b8066" />
+<img width="571" height="587" alt="Scherm­afbeelding 2026-10-01 om 13 02 05" src="https://github.com/user-attachments/assets/ee8f60b2-de1a-49a6-bd46-5b529637a9a9" />
+<img width="563" height="642" alt="Scherm­afbeelding 2026-10-01 om 13 01 58" src="https://github.com/user-attachments/assets/93ff0123-97e6-454c-bdcf-848ebbe8e8b4" />
+<img width="574" height="705" alt="Scherm­afbeelding 2026-10-01 om 13 01 49" src="https://github.com/user-attachments/assets/c48c76e6-dae4-4d87-b76b-e158eb519043" />
+
+
+
+
 
 Waar staat WCAG en A11y voor?
 - wacg zijn richtlijnen en de A11y is de leesbare vertaling ervan
