@@ -8,12 +8,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### dinsdag 30 sept - WCAG & checkout
 
-
+Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website. 
 
 <img width="549" height="338" alt="Scherm­afbeelding 2026-10-01 om 13 03 52" src="https://github.com/user-attachments/assets/38e399f6-0dea-4235-802d-e5caf05b9256" />
 <img width="570" height="395" alt="Scherm­afbeelding 2026-10-01 om 13 03 46" src="https://github.com/user-attachments/assets/4e977132-74cf-4602-9cd8-69c1c7352b39" />
 <img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/6252254c-e9fa-4db7-8981-f250cefdad15" />
 
+Ik heb ontdekt dat mijn website aan meer van de richtlijnen voldoet dan ik dacht, ik moet alleen de dark mode een beter contrast geven en alts toevoegen aan de img.
 
 <img width="597" height="773" alt="Scherm­afbeelding 2026-10-01 om 13 01 23" src="https://github.com/user-attachments/assets/5896891d-c17a-4c38-883d-9b82e2422bc4" />
 
