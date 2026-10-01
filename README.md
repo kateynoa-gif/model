@@ -15,8 +15,14 @@ Aanpassingen:
 - onderaan nav bar toegevoegd voor easy acces
 - cookie popup beter leesbaar gemaakt met kleur
 - hartjes gedraaid zoals origineel idee
+- overal Alt toegevoegd
 - alles in mapjes gezet en er opnieuw naar verwezen
 - overige code verwijdert
+
+<img width="557" height="835" alt="Scherm­afbeelding 2026-10-01 om 16 00 06" src="https://github.com/user-attachments/assets/a4cdf3f2-aec0-4d8e-af73-4f873d474b07" />
+<img width="564" height="855" alt="Scherm­afbeelding 2026-10-01 om 15 56 25" src="https://github.com/user-attachments/assets/11d9bdce-928e-4186-b1cd-13e2b692bd2a" />
+
+
 
 ### dinsdag 30 sept - WCAG & checkout
 
