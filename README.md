@@ -6,7 +6,53 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### maandag 28 sept - deep dive
+### dinsdag 30 sept - WCAG & checkout
+
+Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website. 
+
+<img width="549" height="338" alt="Scherm­afbeelding 2026-10-01 om 13 03 52" src="https://github.com/user-attachments/assets/38e399f6-0dea-4235-802d-e5caf05b9256" />
+<img width="570" height="395" alt="Scherm­afbeelding 2026-10-01 om 13 03 46" src="https://github.com/user-attachments/assets/4e977132-74cf-4602-9cd8-69c1c7352b39" />
+<img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/6252254c-e9fa-4db7-8981-f250cefdad15" />
+
+Ik heb ontdekt dat mijn website aan meer van de richtlijnen voldoet dan ik dacht, ik moet alleen de dark mode een beter contrast geven en alts toevoegen aan de img.
+
+<img width="597" height="773" alt="Scherm­afbeelding 2026-10-01 om 13 01 23" src="https://github.com/user-attachments/assets/5896891d-c17a-4c38-883d-9b82e2422bc4" />
+
+<img width="521" height="649" alt="Scherm­afbeelding 2026-10-01 om 13 02 12" src="https://github.com/user-attachments/assets/549ff12a-4858-4c16-ba0f-250c4e5b8066" />
+<img width="571" height="587" alt="Scherm­afbeelding 2026-10-01 om 13 02 05" src="https://github.com/user-attachments/assets/ee8f60b2-de1a-49a6-bd46-5b529637a9a9" />
+<img width="563" height="642" alt="Scherm­afbeelding 2026-10-01 om 13 01 58" src="https://github.com/user-attachments/assets/93ff0123-97e6-454c-bdcf-848ebbe8e8b4" />
+<img width="574" height="705" alt="Scherm­afbeelding 2026-10-01 om 13 01 49" src="https://github.com/user-attachments/assets/c48c76e6-dae4-4d87-b76b-e158eb519043" />
+
+
+
+
+
+Waar staat WCAG en A11y voor?
+- wacg zijn richtlijnen en de A11y is de leesbare vertaling ervan
+
+Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+- beide vind ik moeilijk, en beide moet ik nog mee oefenen.
+  
+Met welke beperking rekening houden vind je het meest lastig?
+- het hele coderen vind ik erg lastig, ik vind het moeilijk om mijn ideeën om te zetten in codeer-taal en hier nog creatief mee zijn.
+
+Vind je dat je beperkt wordt in wat je kunt ontwerpen?
+(Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden)
+- Ja, ik merk hel erg dat het mijn creatieve vrijheid belemmert en dat ik het moeilijk vind om elementen toe te voegen. 
+
+<img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/f99186bc-2a90-4dd2-88a3-1a36088ee20d" />
+
+### dinsdag 29 sept - deep dive & popup gemaakt 
+
+<img width="1294" height="680" alt="Scherm­afbeelding 2026-09-28 om 10 09 07" src="https://github.com/user-attachments/assets/736346a0-3bc8-4ebc-9362-cc7518a05dd3" />
+
+
+### maandag 28 sept - bi weekly geek
+
+<img width="1077" height="732" alt="Scherm­afbeelding 2026-09-29 om 20 45 09" src="https://github.com/user-attachments/assets/d1179f19-2d9e-4503-9a39-c189b09445f7" />
+
+<img width="906" height="602" alt="Scherm­afbeelding 2026-09-29 om 20 45 48" src="https://github.com/user-attachments/assets/9deae02c-bf9e-4f57-ac09-a772ec019e87" />
+
 
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
 - Het doelt op hetzelfde, de user experience van html heeft te maken met de semantiek.
