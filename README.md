@@ -26,7 +26,7 @@ Feedback Diederik:
 <img width="616" height="394" alt="Scherm­afbeelding 2026-10-02 om 11 41 45" src="https://github.com/user-attachments/assets/83b193d2-61a0-48d6-b3f4-c261b516d234" />
 <img width="620" height="438" alt="Scherm­afbeelding 2026-10-02 om 11 41 29" src="https://github.com/user-attachments/assets/b289eaa8-c611-412c-aa53-0f8dbbc2222f" />
 
-Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijke. 
+Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijken. 
 
 ### donderdag 1 okt - website bijgewerkt
 
@@ -56,7 +56,6 @@ Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site go
 Ik heb ontdekt dat mijn website aan meer van de richtlijnen voldoet dan ik dacht, ik moet alleen de dark mode een beter contrast geven en alts toevoegen aan de img.
 
 <img width="597" height="773" alt="Scherm­afbeelding 2026-10-01 om 13 01 23" src="https://github.com/user-attachments/assets/5896891d-c17a-4c38-883d-9b82e2422bc4" />
-
 <img width="521" height="649" alt="Scherm­afbeelding 2026-10-01 om 13 02 12" src="https://github.com/user-attachments/assets/549ff12a-4858-4c16-ba0f-250c4e5b8066" />
 <img width="571" height="587" alt="Scherm­afbeelding 2026-10-01 om 13 02 05" src="https://github.com/user-attachments/assets/ee8f60b2-de1a-49a6-bd46-5b529637a9a9" />
 <img width="563" height="642" alt="Scherm­afbeelding 2026-10-01 om 13 01 58" src="https://github.com/user-attachments/assets/93ff0123-97e6-454c-bdcf-848ebbe8e8b4" />
