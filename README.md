@@ -7,6 +7,17 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 
+### vrijdag 2 okt - retrospect en beoordelingsgesprek
+
+<img width="604" height="407" alt="Scherm­afbeelding 2026-10-02 om 11 42 00" src="https://github.com/user-attachments/assets/9b84e36e-d44e-4699-93b6-125a81893268" />
+
+<img width="616" height="394" alt="Scherm­afbeelding 2026-10-02 om 11 41 45" src="https://github.com/user-attachments/assets/83b193d2-61a0-48d6-b3f4-c261b516d234" />
+<img width="620" height="438" alt="Scherm­afbeelding 2026-10-02 om 11 41 29" src="https://github.com/user-attachments/assets/b289eaa8-c611-412c-aa53-0f8dbbc2222f" />
+
+Ik heb voor mijn megafoon de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite heb met coderen omdat 
+
+
+
 ### donderdag 1 okt - website bijgewerkt
 
 Aanpassingen:
