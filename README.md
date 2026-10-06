@@ -9,12 +9,26 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### maandag 5 okt - retrospect en beoordelingsgesprek
 
-Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. (Hint, alle termen staan in de artikelen die we samen gelezen hebben)
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
 
+- kerning= de ruimte tussen 2 specifieke letters
+- tracking= De algemene letterafstand van een heel woord, een zin of een tekstblok
+- leading= De verticale ruimte tussen tekstregels
+- flush left/right= waar de text is uitgelijnd
+- centered= text is gecentreerd
+- indent/outdent= inspringing/uitspringing in de text
+- modulair scale= een scherm wat meebeweegt bij het verkleinen en vergroten
+- movable type= Een manier van drukken waarbij losse letters en tekens gebruikt worden die je steeds opnieuw kunt rangschikken en gebruiken
+- Het ding in een ontwerp waar je aandacht als eerste naartoe wordt getrokken
+- 5 soorten contrast= sise, weight, color, form, space
+- spatial tension= een soort spanning die ontstaat door witruimte
 
 Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Mijn ideale regellengte is ongeveer 50–75 tekens per regel
 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Grootte, hiermee kan je goed uitdrukken wat belangrijk is en wat niet, ook de leesvolgorde kan je hiermee bepalen
+
 
 ### vrijdag 2 okt - retrospect en beoordelingsgesprek
 
