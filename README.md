@@ -9,6 +9,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### maandag 5 okt - schetsen lyric en checkout
 
+<img width="794" height="585" alt="Scherm­afbeelding 2026-10-06 om 16 56 09" src="https://github.com/user-attachments/assets/d16b021e-8868-4c1b-ab0f-c3a2a8052d56" />
+
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
 
 - kerning= de ruimte tussen 2 specifieke letters
