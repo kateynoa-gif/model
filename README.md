@@ -7,6 +7,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 
+### dinsdag 5 okt - zelfstudie
+
+Deep dive interesantere layout gemaakt. 
+
+Ik heb hiervan geleerd hoe ik lettertypes kan draaien en snap beter hoe clamps werken, hoewel ik dit nog wel ingewikkeld vindt.
+<img width="1258" height="730" alt="Scherm­afbeelding 2026-10-06 om 18 03 38" src="https://github.com/user-attachments/assets/74658511-7b13-459e-82e8-f38af2da19b7" />
+
 ### maandag 5 okt - schetsen lyric en checkout
 
 <img width="794" height="585" alt="Scherm­afbeelding 2026-10-06 om 16 56 09" src="https://github.com/user-attachments/assets/d16b021e-8868-4c1b-ab0f-c3a2a8052d56" />
