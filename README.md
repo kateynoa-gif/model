@@ -7,7 +7,7 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 
-### maandag 5 okt - retrospect en beoordelingsgesprek
+### maandag 5 okt - schetsen lyric en checkout
 
 Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
 
