@@ -7,6 +7,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 ## Learning Log
 
 ### woensdag 7 okt - werken aan code + schetsen 
+Deep dive 
+<img width="791" height="733" alt="Scherm­afbeelding 2026-10-07 om 15 25 15" src="https://github.com/user-attachments/assets/a28d2874-67b3-4c4b-86fb-c9ee5d627d99" />
+<img width="837" height="687" alt="Scherm­afbeelding 2026-10-07 om 15 46 05" src="https://github.com/user-attachments/assets/43966cf1-4d9a-429a-ad1c-0ba414b5bde0" />
+<img width="1231" height="833" alt="Scherm­afbeelding 2026-10-07 om 16 16 04" src="https://github.com/user-attachments/assets/28deda7f-e215-45f3-b0e6-9e5856b956f3" />
+
+
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 
