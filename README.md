@@ -6,8 +6,26 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### woensdag 7 okt - werken aan code + schetsen 
 
-### dinsdag 5 okt - zelfstudie
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+- ontwerper = het geeft duidelijke organisatie in je ontwerp en helpt met onderdelen op hun plek zetten.
+- bezoeker= de visuele hiërarchie helpt met het makkelijk lezen van een website en een fijn overzicht te hebben.
+ 
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+- een grid
+- witruimte
+- visuele hiërarchie (grootte en kleur etc)
+
+Hoeveel gekkigheid moet er in je werk zitten?
+- genoeg om leuk te zijn, niet teveel dat het onleesbaar is.
+
+<img width="563" height="453" alt="Scherm­afbeelding 2026-10-07 om 12 44 23" src="https://github.com/user-attachments/assets/51975306-da88-435c-be0e-2eaf8cdaa536" />
+<img width="568" height="758" alt="Scherm­afbeelding 2026-10-07 om 12 43 10" src="https://github.com/user-attachments/assets/cd09048b-a3c4-4ce1-b60e-711e5bbc83fe" />
+
+
+### dinsdag 6 okt - zelfstudie
 
 Deep dive interesantere layout gemaakt. 
 
