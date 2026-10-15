@@ -5,6 +5,12 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### donderdag 15 okt - Lyric afgemaakt
+<img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
+<img width="1511" height="859" alt="Scherm­afbeelding 2026-10-15 om 19 42 41" src="https://github.com/user-attachments/assets/cb545ed0-a441-49e9-ae1c-0fb61eae94f8" />
+<img width="1509" height="865" alt="Scherm­afbeelding 2026-10-15 om 19 42 33" src="https://github.com/user-attachments/assets/d741a667-d12c-4e64-9cd4-34335a298f57" />
+
+
 
 ### woensdag 7 okt - werken aan code + schetsen 
 Deep dive 
