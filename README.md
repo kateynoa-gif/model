@@ -6,6 +6,8 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### donderdag 19 okt - 
+
 ### donderdag 15 okt - Lyric afgemaakt en deep dive gemaakt
 
 
