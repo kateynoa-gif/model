@@ -1,0 +1,255 @@
+/* MARK: fonts */
+@font-face {
+  font-family: "Seraphs";
+  src: url("style/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+}
+
+html {
+  color-scheme: light dark;
+
+  --bg: light-dark(#f1cdb3, rgb(0, 0, 0));
+  --color: light-dark(rgb(0, 0, 0), #f1cdb3);
+  --accent-color: #cc7743;
+  --border-width: 0.1em;
+
+  --whitespace: 2em;
+  --whitespace-s: 1em;
+  --whitespace-xs: 0.5em;
+
+  /* MARK: textgrootte klein=0 groot=6 */
+  --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
+  --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
+  --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
+  --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
+  --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
+  --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
+  --step-6: clamp(2.986rem, -0.7648rem + 16.6701vw, 14.2383rem);
+}
+
+body {
+  font-family: "Seraphs";
+  background-color: var(--bg);
+  color: var(--color);
+}
+
+/**************************
+* MARK: Typografie
+**************************/
+main {
+  min-height: 100vh;
+
+  span {
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 13;
+  }
+
+  eerste-beat {
+    font-size: var(--step-6);
+    color: #d37196;
+    margin: 0;
+
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 29;
+    font-feature-settings: "tnum";
+
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 4;
+
+    overflow-wrap: anywhere;
+    opacity: 0.5;
+    z-index: -1;
+  }
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/opacity */
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/z-index */
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using */
+
+  tweede-beat {
+    font-size: var(--step-6);
+    color: #d37196;
+    margin: 0;
+
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 29;
+    font-feature-settings: "tnum";
+
+    grid-column-start: 4;
+    grid-column-end: 7;
+
+    grid-row-start: 6;
+    grid-row-end: 9;
+
+    overflow-wrap: anywhere;
+    opacity: 0.5;
+    z-index: -1;
+  }
+
+  h3 {
+    font-size: var(--step-2);
+  }
+
+  h4 {
+    font-size: var(--step-2);
+    letter: spacing 10%;
+  }
+
+  couplet-een {
+    font-size: var(--step-2);
+    grid-column-start: 2;
+    grid-column-end: 4;
+
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+
+  eerste-refrein {
+    font-size: var(--step-3);
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 27;
+
+    grid-column-start: 3;
+    grid-column-end: 7;
+
+    grid-row-start: 3;
+    grid-row-end: 4;
+  }
+
+  zacht-refrein {
+    font-size: var(--step-1);
+    font-width: 100;
+    rotate: 30deg;
+    opacity: 0.5;
+
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 38;
+
+    grid-column-start: 5;
+    grid-column-end: 7;
+
+    grid-row-start: 3;
+    grid-row-end: 7;
+    padding-top: 6em;
+  }
+
+  tweede-refrein {
+    font-size: var(--step-2);
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 27;
+
+    grid-column-start: 4;
+    grid-column-end: 7;
+
+    grid-row-start: 4;
+    grid-row-end: 5;
+
+    span {
+      letter-spacing: 0.25em;
+    }
+  }
+
+  couplet-twee {
+    font-variation-settings:
+      "wght" 100,
+      "SRFS" 1;
+    font-size: var(--step-2);
+    grid-column-start: 1;
+    grid-column-end: 4;
+
+    grid-row-start: 4;
+    grid-row-end: 5;
+    padding-top: 3em;
+
+    span {
+      text-shadow: 1px 1px 2px black;
+      display: inline-block;
+      rotate: 20deg;
+      font-variation-settings:
+        "wght" 134,
+        "SRFS" 1;
+    }
+  }
+  /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-shadow */
+
+  p {
+    font-size: var(--step-3);
+    font-variation-settings:
+      "wght" 123,
+      "SRFS" 0;
+
+    grid-column-start: 3;
+    grid-column-end: 6;
+
+    grid-row-start: 5;
+    grid-row-end: 6;
+    padding-top: 5em;
+
+    span {
+      color: #e7823a;
+      font-variation-settings:
+        "wght" 200,
+        "SRFS" 23;
+      motion-rotation: 20deg;
+    }
+  }
+
+  couplet-drie {
+    font-size: var(--step-1);
+    opacity: 0.5;
+    font-variation-settings:
+      "wght" 123,
+      "SRFS" 54;
+
+    grid-column-start: 2;
+    grid-column-end: 6;
+
+    grid-row-start: 7;
+    grid-row-end: 8;
+
+    span {
+      letter-spacing: 0.5em;
+    }
+  }
+
+  zacht-couplet {
+    font-size: var(--step-1);
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 14;
+
+    grid-column-start: 4;
+    grid-column-end: 7;
+
+    grid-row-start: 8;
+    grid-row-end: 9;
+    /* padding-top: 0.5em; */
+  }
+}
+
+/**************************
+* MARK: Mobile grid
+**************************/
+/* main {
+  grid-template-columns: repeat(6, 1fr);
+  grid-template-rows: ;
+} */
+
+/**************************
+* MARK: Laptop grid
+**************************/
+
+@media (width > 60em) {
+  main {
+    display: grid;
+    /* grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(9, 1fr); */
+    grid-template-columns: repeat(5, minmax(0, 16rem));
+    grid-template-rows: repeat(15, 16rem);
+  }
+}
