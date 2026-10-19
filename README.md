@@ -6,10 +6,16 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
-### donderdag 19 okt - 
+### donderdag 19 okt les en Webby getest
 
-### donderdag 15 okt - Lyric afgemaakt en deep dive gemaakt
+<img width="1049" height="733" alt="Scherm­afbeelding 2026-10-19 om 20 23 08" src="https://github.com/user-attachments/assets/97da4233-fbc6-4df3-8870-6d6307758334" />
 
+
+### donderdag 15 okt - schetsen gemaakt
+
+<img width="570" height="687" alt="Scherm­afbeelding 2026-10-19 om 20 22 15" src="https://github.com/user-attachments/assets/83d2719f-c28d-4fc8-b050-b7bacaf641f5" />
+
+### donderdag 13 okt - Lyric afgemaakt en deep dive gemaakt
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
 <img width="1511" height="859" alt="Scherm­afbeelding 2026-10-15 om 19 42 41" src="https://github.com/user-attachments/assets/cb545ed0-a441-49e9-ae1c-0fb61eae94f8" />
