@@ -6,6 +6,116 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+### donderdag 15 okt - Lyric afgemaakt en deep dive gemaakt
+
+
+<img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
+<img width="1511" height="859" alt="Scherm­afbeelding 2026-10-15 om 19 42 41" src="https://github.com/user-attachments/assets/cb545ed0-a441-49e9-ae1c-0fb61eae94f8" />
+<img width="1509" height="865" alt="Scherm­afbeelding 2026-10-15 om 19 42 33" src="https://github.com/user-attachments/assets/d741a667-d12c-4e64-9cd4-34335a298f57" />
+<img width="843" height="627" alt="Scherm­afbeelding 2026-10-15 om 13 41 56" src="https://github.com/user-attachments/assets/f8c878df-53a2-4bb5-ba8a-d142c5918505" />
+
+
+
+<img width="743" height="871" alt="Scherm­afbeelding 2026-10-15 om 19 52 49" src="https://github.com/user-attachments/assets/183a5a8a-19a5-4661-a091-a6f1f52fd3fd" />
+<img width="499" height="597" alt="Scherm­afbeelding 2026-10-15 om 19 34 29" src="https://github.com/user-attachments/assets/bd62259d-db3c-4d24-b00f-d08f7ee88520" />
+
+
+
+### woensdag 7 okt - werken aan code + schetsen 
+Deep dive 
+<img width="791" height="733" alt="Scherm­afbeelding 2026-10-07 om 15 25 15" src="https://github.com/user-attachments/assets/a28d2874-67b3-4c4b-86fb-c9ee5d627d99" />
+<img width="837" height="687" alt="Scherm­afbeelding 2026-10-07 om 15 46 05" src="https://github.com/user-attachments/assets/43966cf1-4d9a-429a-ad1c-0ba414b5bde0" />
+<img width="1231" height="833" alt="Scherm­afbeelding 2026-10-07 om 16 16 04" src="https://github.com/user-attachments/assets/28deda7f-e215-45f3-b0e6-9e5856b956f3" />
+
+
+
+Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
+
+- ontwerper = het geeft duidelijke organisatie in je ontwerp en helpt met onderdelen op hun plek zetten.
+- bezoeker= de visuele hiërarchie helpt met het makkelijk lezen van een website en een fijn overzicht te hebben.
+ 
+Noem drie manieren om chaos in je ontwerp te voorkomen.
+- een grid
+- witruimte
+- visuele hiërarchie (grootte en kleur etc)
+
+Hoeveel gekkigheid moet er in je werk zitten?
+- genoeg om leuk te zijn, niet teveel dat het onleesbaar is.
+
+<img width="563" height="453" alt="Scherm­afbeelding 2026-10-07 om 12 44 23" src="https://github.com/user-attachments/assets/51975306-da88-435c-be0e-2eaf8cdaa536" />
+<img width="568" height="758" alt="Scherm­afbeelding 2026-10-07 om 12 43 10" src="https://github.com/user-attachments/assets/cd09048b-a3c4-4ce1-b60e-711e5bbc83fe" />
+
+
+### dinsdag 6 okt - zelfstudie
+
+Deep dive interesantere layout gemaakt. 
+
+Ik heb hiervan geleerd hoe ik lettertypes kan draaien en snap beter hoe clamps werken, hoewel ik dit nog wel ingewikkeld vindt.
+<img width="1258" height="730" alt="Scherm­afbeelding 2026-10-06 om 18 03 38" src="https://github.com/user-attachments/assets/74658511-7b13-459e-82e8-f38af2da19b7" />
+
+### maandag 5 okt - schetsen lyric en checkout
+
+<img width="794" height="585" alt="Scherm­afbeelding 2026-10-06 om 16 56 09" src="https://github.com/user-attachments/assets/d16b021e-8868-4c1b-ab0f-c3a2a8052d56" />
+
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
+
+- kerning= de ruimte tussen 2 specifieke letters
+- tracking= De algemene letterafstand van een heel woord, een zin of een tekstblok
+- leading= De verticale ruimte tussen tekstregels
+- flush left/right= waar de text is uitgelijnd
+- centered= text is gecentreerd
+- indent/outdent= inspringing/uitspringing in de text
+- modulair scale= een scherm wat meebeweegt bij het verkleinen en vergroten
+- movable type= Een manier van drukken waarbij losse letters en tekens gebruikt worden die je steeds opnieuw kunt rangschikken en gebruiken
+- Het ding in een ontwerp waar je aandacht als eerste naartoe wordt getrokken
+- 5 soorten contrast= sise, weight, color, form, space
+- spatial tension= een soort spanning die ontstaat door witruimte
+
+Wat is jouw ideale regellengte (measure)? Leg uit waarom.
+Mijn ideale regellengte is ongeveer 50–75 tekens per regel
+
+Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
+Grootte, hiermee kan je goed uitdrukken wat belangrijk is en wat niet, ook de leesvolgorde kan je hiermee bepalen
+
+
+### vrijdag 2 okt - retrospect en beoordelingsgesprek
+
+
+Mijn website bewerkt na de validator: cookie naam verandert.
+<img width="1453" height="809" alt="Scherm­afbeelding 2026-10-02 om 12 30 42" src="https://github.com/user-attachments/assets/df0829c6-4845-445c-9d15-f6ced2c7c1dd" />
+
+Feedback Diederik:
+- Typografie: makkelijker leesbaar lettertype
+- hartjes kleiner bij groot scherm 
+- Dark mode omgekeerd: lichte letters
+- tekeningen op achtergrond :NIET ingekleurd voor verschil knop/geen knop 
+- light mode: groter contrast maken
+- font p groter maken
+
+<img width="604" height="407" alt="Scherm­afbeelding 2026-10-02 om 11 42 00" src="https://github.com/user-attachments/assets/9b84e36e-d44e-4699-93b6-125a81893268" />
+
+<img width="616" height="394" alt="Scherm­afbeelding 2026-10-02 om 11 41 45" src="https://github.com/user-attachments/assets/83b193d2-61a0-48d6-b3f4-c261b516d234" />
+<img width="620" height="438" alt="Scherm­afbeelding 2026-10-02 om 11 41 29" src="https://github.com/user-attachments/assets/b289eaa8-c611-412c-aa53-0f8dbbc2222f" />
+
+Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijken. 
+
+### donderdag 1 okt - website bijgewerkt
+
+Aanpassingen:
+- leesbaarheid beter gemaakt door hoger contrast
+- text vergroot en in het midden outgelined
+- onderaan nav bar toegevoegd voor easy acces
+- cookie popup beter leesbaar gemaakt met kleur
+- hartjes gedraaid zoals origineel idee
+- overal Alt toegevoegd
+- alles in mapjes gezet en er opnieuw naar verwezen
+- overige code verwijdert
+
+<img width="557" height="835" alt="Scherm­afbeelding 2026-10-01 om 16 00 06" src="https://github.com/user-attachments/assets/a4cdf3f2-aec0-4d8e-af73-4f873d474b07" />
+<img width="564" height="855" alt="Scherm­afbeelding 2026-10-01 om 15 56 25" src="https://github.com/user-attachments/assets/11d9bdce-928e-4186-b1cd-13e2b692bd2a" />
+
+
+
 ### dinsdag 30 sept - WCAG & checkout
 
 Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website. 
@@ -17,7 +127,6 @@ Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site go
 Ik heb ontdekt dat mijn website aan meer van de richtlijnen voldoet dan ik dacht, ik moet alleen de dark mode een beter contrast geven en alts toevoegen aan de img.
 
 <img width="597" height="773" alt="Scherm­afbeelding 2026-10-01 om 13 01 23" src="https://github.com/user-attachments/assets/5896891d-c17a-4c38-883d-9b82e2422bc4" />
-
 <img width="521" height="649" alt="Scherm­afbeelding 2026-10-01 om 13 02 12" src="https://github.com/user-attachments/assets/549ff12a-4858-4c16-ba0f-250c4e5b8066" />
 <img width="571" height="587" alt="Scherm­afbeelding 2026-10-01 om 13 02 05" src="https://github.com/user-attachments/assets/ee8f60b2-de1a-49a6-bd46-5b529637a9a9" />
 <img width="563" height="642" alt="Scherm­afbeelding 2026-10-01 om 13 01 58" src="https://github.com/user-attachments/assets/93ff0123-97e6-454c-bdcf-848ebbe8e8b4" />
