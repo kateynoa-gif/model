@@ -8,6 +8,12 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ### woensdag 21 okt 
 
+Met Twan en Rein mijn website getest, hij kwam erg positief uit de test en ik ben er erg tevreden mee. Ik ga nu verder met aan mijn top 3 werken
+<img width="547" height="682" alt="Scherm­afbeelding 2026-10-21 om 12 01 27" src="https://github.com/user-attachments/assets/46ba2cfc-8630-4393-aeff-91f09cd6591a" />
+
+<img width="565" height="706" alt="Scherm­afbeelding 2026-10-21 om 12 01 06" src="https://github.com/user-attachments/assets/a448fad3-37e2-4add-807c-0f2886d1c7f2" />
+
+Met mijn groepje de bi-weekly geek gemaakt.
 <img width="1101" height="737" alt="Scherm­afbeelding 2026-10-21 om 10 05 51" src="https://github.com/user-attachments/assets/497bfe5e-7799-479e-b780-481bb1dbcf6a" />
 
 ### dinsdag 20 okt aan website gewerkt
