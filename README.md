@@ -5,9 +5,25 @@
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
+### donderdag 19 okt aan website gewerkt
 
-### donderdag 15 okt - Lyric afgemaakt en deep dive gemaakt
+Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken voor de deadline.
 
+<img width="502" height="616" alt="Scherm­afbeelding 2026-10-20 om 18 48 36" src="https://github.com/user-attachments/assets/b60c0f4d-be01-4869-8931-765441caaa60" />
+<img width="524" height="738" alt="Scherm­afbeelding 2026-10-20 om 18 48 26" src="https://github.com/user-attachments/assets/a4cb4421-5a2a-46a3-bf27-7829189e1c50" />
+<img width="1462" height="786" alt="Scherm­afbeelding 2026-10-20 om 18 44 04" src="https://github.com/user-attachments/assets/eecdf8a1-c866-4be1-ae6b-329a997ac179" />
+
+
+### donderdag 19 okt Webby getest
+
+<img width="1049" height="733" alt="Scherm­afbeelding 2026-10-19 om 20 23 08" src="https://github.com/user-attachments/assets/97da4233-fbc6-4df3-8870-6d6307758334" />
+
+
+### donderdag 15 okt - schetsen gemaakt
+
+<img width="570" height="687" alt="Scherm­afbeelding 2026-10-19 om 20 22 15" src="https://github.com/user-attachments/assets/83d2719f-c28d-4fc8-b050-b7bacaf641f5" />
+
+### donderdag 13 okt - Lyric afgemaakt en deep dive gemaakt
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
 <img width="1511" height="859" alt="Scherm­afbeelding 2026-10-15 om 19 42 41" src="https://github.com/user-attachments/assets/cb545ed0-a441-49e9-ae1c-0fb61eae94f8" />
