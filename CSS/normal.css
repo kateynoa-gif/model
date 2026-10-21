@@ -12,11 +12,12 @@
 
 @font-face {
   font-family: "written";
-  src: url("../assets/style/writtenonhishands.ttf");
+  src: url("../assets/style/MoreSugar-Thin.otf");
   font-weight: 400;
   font-style: normal;
 }
 /* https://www.1001fonts.com/written-on-his-hands-font.html */
+/* https://www.1001fonts.com/more-sugar-font.html */
 
 /**************************
 * MARK: Custom properties
@@ -25,8 +26,8 @@
 html {
   color-scheme: light dark;
 
-  --bg: light-dark(rgb(243, 157, 207), rgb(212, 148, 230));
-  --color: light-dark(rgb(178, 23, 105), rgb(104, 7, 112));
+  --bg: light-dark(rgb(243, 157, 207), rgb(79, 16, 97));
+  --color: light-dark(rgb(178, 23, 105), rgb(208, 139, 233));
   --accent-color: #ba8360;
   --border-width: 0.1em;
 
@@ -72,11 +73,55 @@ body {
 }
 
 /**************************
+* MARK: Animatie
+**************************/
+
+@media (prefers-color-scheme: dark) {
+  body {
+    --ster-formaat: 20rem;
+
+    background-image: url("../Img/sterren2.svg");
+    background-size: var(--ster-formaat);
+    background-attachment: fixed;
+    animation: zweef 70s linear infinite;
+  }
+}
+
+@keyframes zweef {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: var(--ster-formaat) var(--ster-formaat);
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  body {
+    --hart-formaat: 40rem;
+
+    background-image: url("../Img/hartjes.svg");
+    background-size: var(--hart-formaat);
+    background-attachment: fixed;
+    animation: zweef-hart 60s linear infinite;
+  }
+}
+
+@keyframes zweef-hart {
+  from {
+    background-position: 0 0;
+  }
+  to {
+    background-position: var(--hart-formaat) var(--hart-formaat);
+  }
+}
+/* https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient */
+
+/**************************
 * MARK: Header
 **************************/
 
 header {
-  background: var(--bg);
   padding: var(--whitespace) var(--whitespace) 0;
   max-width: 75rem;
   margin-inline: auto;
@@ -122,7 +167,6 @@ header h1 {
 **************************/
 
 main {
-  background: var(--bg);
   padding: var(--whitespace);
   max-width: 75rem;
   margin-inline: auto;
@@ -268,6 +312,8 @@ footer {
   padding: var(--whitespace);
 
   nav {
+    font-family: "written";
+    color: #000;
     h2 {
       position: absolute;
       left: -9999999em;
