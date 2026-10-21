@@ -134,7 +134,8 @@ header {
   gap: var(--whitespace);
 }
 
-header button {
+header > button {
+  cursor: pointer;
   grid-area: koekje;
   justify-self: end;
   padding: 0;
@@ -145,12 +146,17 @@ header button {
   right: var(--whitespace-xs);
   z-index: 10;
 }
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 
 header button img {
   display: block;
   width: clamp(3rem, 2rem + 5vw, 5rem);
   height: auto;
   max-width: unset;
+
+  &:hover {
+    transform: scale(0.8);
+  }
 }
 
 header h1 {
@@ -203,11 +209,17 @@ ol {
 main > a:nth-of-type(1) {
   grid-area: me;
   justify-self: center;
+
   img {
     width: min(100%, 10rem);
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
   }
 }
-
+/* bron: Maja */
 main p:nth-of-type(1) {
   font-family: "written";
   grid-area: text;
@@ -220,6 +232,11 @@ main > a:nth-of-type(2) {
   img {
     width: 100%;
     rotate: -30deg;
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
   }
 }
 
@@ -229,6 +246,11 @@ main > a:nth-of-type(3) {
   img {
     width: 100%;
     rotate: 30deg;
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
   }
 }
 
@@ -238,6 +260,11 @@ main > a:nth-of-type(4) {
   img {
     width: 100%;
     rotate: -30deg;
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
   }
 }
 
@@ -247,12 +274,21 @@ main > a:nth-of-type(5) {
   img {
     width: 100%;
     rotate: 30deg;
+    transition: 0.1s;
+    &:hover {
+      transform: scale(0.8);
+    }
   }
 }
 
 main > img:nth-of-type(1) {
   grid-area: muziek;
   width: 50%;
+  transition: 0.1s;
+
+  &:hover {
+    transform: scale(0.8);
+  }
 }
 
 body > image {
@@ -273,7 +309,7 @@ h4 {
 * MARK: Media > 60em
 **************************/
 
-@media (width > 60em) {
+@media (width > 20em) {
   main {
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
@@ -302,6 +338,18 @@ h4 {
   font-family: "whimsical", serif;
 }
 
+aside button {
+  font-family: "written";
+  background-color: var(--bg);
+  border:;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: var(--step-1);
+  cursor: pointer;
+}
 /**************************
 * MARK: Footer
 **************************/
