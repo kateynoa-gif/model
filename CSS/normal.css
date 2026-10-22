@@ -45,6 +45,8 @@ html {
   --step-6: clamp(2.986rem, -0.7648rem + 16.6701vw, 14.2383rem);
 }
 
+/* https://www.modularscale.com */
+
 /**************************
 * MARK: Algemene Styling
 **************************/
@@ -309,7 +311,7 @@ h4 {
 * MARK: Media > 60em
 **************************/
 
-@media (width > 20em) {
+@media (width > 40em) {
   main {
     grid-template-columns: repeat(4, 1fr);
     grid-template-areas:
@@ -341,7 +343,7 @@ h4 {
 aside button {
   font-family: "written";
   background-color: var(--bg);
-  border:;
+  /* border:; */
   color: white;
   padding: 15px 32px;
   text-align: center;
@@ -350,6 +352,9 @@ aside button {
   font-size: var(--step-1);
   cursor: pointer;
 }
+
+/* https://www.w3schools.com/css/css3_buttons.asp */
+
 /**************************
 * MARK: Footer
 **************************/

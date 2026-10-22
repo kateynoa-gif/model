@@ -128,13 +128,13 @@ header {
 
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
-  /* grid-template-areas:
+  grid-template-areas:
     ".     .      koekje"
     "titel titel  titel";
   gap: var(--whitespace);
-} */
+}
 
-header button {
+header > button {
   cursor: pointer;
   grid-area: koekje;
   justify-self: end;
@@ -148,7 +148,7 @@ header button {
 }
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 
-header button img {
+header > button img {
   display: block;
   width: clamp(3rem, 2rem + 5vw, 5rem);
   height: auto;
@@ -159,9 +159,9 @@ header h1 {
   font-family: "whimsical", serif;
   grid-area: titel;
   text-align: center;
-  font-size: var(--step-6);
+  font-size: var(--step-5);
   margin: 0;
-  line-height: 0.8;
+  line-height: 1;
 }
 
 /**************************
@@ -174,87 +174,31 @@ main {
   margin-inline: auto;
 
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
-  gap: var(--whitespace);
 
-  grid-template-areas:
-    /* ".      subkop .     "
-    "me     text   text "
-    "muziek muziek muziek"
-    "films  films  films "
-    "games  games  games "
-    "boeken boeken boeken"; */
+  gap: var(--whitespace);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+}
+
+main h2 {
+  font-size: var(--step-2);
+  margin: 0;
+  text-align: center;
+
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 main p {
   font-size: var(--step-1);
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
-
-main h2 {
-  font-size: var(--step-4);
-  grid-area: subkop;
-  margin: 0;
-  text-align: center;
-}
-
 p,
 ol {
   font-family: "written";
-}
-
-main > a:nth-of-type(1) {
-  grid-area: me;
-  justify-self: center;
-  img {
-    width: min(100%, 10rem);
-  }
-}
-
-main p:nth-of-type(1) {
-  font-family: "written";
-  grid-area: text;
-  text-align: left;
-}
-
-main > a:nth-of-type(2) {
-  grid-area: muziek;
-
-  img {
-    width: 100%;
-    rotate: -30deg;
-  }
-}
-
-main > a:nth-of-type(3) {
-  grid-area: films;
-
-  img {
-    width: 100%;
-    rotate: 30deg;
-  }
-}
-
-main > a:nth-of-type(4) {
-  grid-area: games;
-
-  img {
-    width: 100%;
-    rotate: -30deg;
-  }
-}
-
-main > a:nth-of-type(5) {
-  grid-area: boeken;
-
-  img {
-    width: 100%;
-    rotate: 30deg;
-  }
-}
-
-main > img:nth-of-type(1) {
-  grid-area: muziek;
-  width: 50%;
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 body > image {
@@ -268,23 +212,20 @@ h3 {
 
 h4 {
   font-family: "written";
-  font-size: var(--step-0);
+  font-size: var(--step-2);
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 /**************************
 * MARK: Media > 60em
 **************************/
-/* 
-@media (width > 20em) {
+
+@media (width > 40em) {
   main {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-areas:
-      "subkop subkop subkop subkop"
-      "me     text   text   .     "
-      "muziek muziek films  films "
-      "games  games  boeken boeken";
   }
-} */
+}
 /**************************
 * MARK: cookie popup
 **************************/
@@ -309,7 +250,6 @@ h4 {
 **************************/
 
 footer {
-  grid-area: footer;
   background: var(--color);
   padding: var(--whitespace);
 
