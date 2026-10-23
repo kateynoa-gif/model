@@ -161,6 +161,20 @@ header button img {
   }
 }
 
+aside > button {
+  align-items: center;
+  display: inline-block;
+  background: var(--bg);
+  color: red;
+  padding: 0.5em 1em;
+  border-radius: 0.9em;
+  border: 3px solid #000;
+  text-decoration: none;
+}
+aside > button:hover {
+  background-color: var(--color);
+}
+
 header h1 {
   font-family: "whimsical", serif;
   grid-area: titel;
@@ -241,6 +255,7 @@ main > a:nth-of-type(2) {
     }
   }
 }
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale */
 
 main > a:nth-of-type(3) {
   grid-area: films;
@@ -358,33 +373,39 @@ aside button {
 /**************************
 * MARK: Footer
 **************************/
-
-footer {
-  grid-area: footer;
+Footer {
   background: var(--color);
   padding: var(--whitespace);
 
   nav {
     font-family: "written";
     color: #000;
-    h2 {
-      position: absolute;
-      left: -9999999em;
-    }
-    ul {
-      &::before {
-        content: "🏡" / "De Digital Garden Webring";
-      }
-      &::after {
-        content: "<--" / "";
-      }
 
+    ul {
+      justify-content: center;
       padding: 0;
       display: flex;
+      flex-wrap: wrap;
       gap: var(--whitespace-xs);
 
       li {
         list-style: none;
+        align-items: center;
+      }
+    }
+
+    a {
+      align-items: center;
+      display: inline-block;
+      background: #f9d9ec;
+      color: var(--color);
+      padding: 0.5em 1em;
+      border-radius: 0.9em;
+      border: 3px solid #000;
+      text-decoration: none;
+
+      &:hover {
+        background: var(--bg);
       }
     }
   }
