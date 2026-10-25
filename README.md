@@ -6,6 +6,28 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+
+### woensdag 21 okt 
+feedback Diederik:
+
+- seraphs toevoegen lyric
+
+-lyric einde duidelijk maken> intentioneel
+
+-focus state nav bar
+
+-link weghalen op over mij pag> staat al eronder
+
+-cookie popup alleen sluiten met akkoord button> geen naast klikken
+
+-class voor main maken voor pages/homepage (met Sanne overleggen of ik geen aparte css pagina mag maken)
+
+-alles in main nesten
+
+-sterren en hartjes lichter/donker 
+
+evt: fotos op losse pages
+
 ### woensdag 21 okt 
 
 Met Twan en Rein mijn website getest, hij kwam erg positief uit de test en ik ben er erg tevreden mee. Ik ga nu verder met aan mijn top 3 werken
