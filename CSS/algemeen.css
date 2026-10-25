@@ -259,7 +259,7 @@ aside > button {
 **************************/
 
 [popover] {
-  font-size: 2em;
+  font-size: var(--step-0);
   font-family: "written", cursive;
   background: var(--accent-color);
   color: black;
