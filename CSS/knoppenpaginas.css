@@ -1,12 +1,11 @@
 /**************************
-* MARK: Styling voor alle pagina's na knoppen
+* MARK: Styling voor alle hartjes pagina's 
 **************************/
 
 header h1 {
   font-family: "whimsical", serif;
-  grid-area: titel;
   text-align: center;
-  font-size: var(--step-5);
+  font-size: var(--step-4);
   margin: 0;
   line-height: 1;
 }
@@ -25,33 +24,38 @@ main {
   gap: var(--whitespace);
   grid-template-columns: repeat(4, 1fr);
   grid-template-rows: auto;
-}
 
-main h2 {
-  font-size: var(--step-2);
-  margin: 0;
-  text-align: center;
+  h2 {
+    font-size: var(--step-2);
+    margin: 0;
+    text-align: center;
 
-  grid-column-start: 2;
-  grid-column-end: 4;
-}
+    grid-column-start: 1;
+    grid-column-end: -1;
+  }
+  p {
+    font-size: var(--step-1);
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  img {
+    width: min(100%, 30rem);
+    rotate: 10deg;
+    grid-column-start: 1;
+    grid-column-end: 5;
+    padding-top: 0%;
+  }
 
-main p {
-  font-size: var(--step-1);
-  grid-column-start: 2;
-  grid-column-end: 4;
-}
-p,
-ol,
-li {
-  font-size: var(--step-1);
-  font-family: "written";
-  grid-column-start: 2;
-  grid-column-end: 4;
-}
-
-body > image {
-  height: 10em;
+  p,
+  ol,
+  li {
+    font-size: var(--step-2);
+    font-family: "written";
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
 }
 
 h3 {
@@ -67,11 +71,39 @@ h4 {
 }
 
 /**************************
-* MARK: Media > 60em 
+* MARK: Media mobiel scherm 
 **************************/
 
-@media (width <= 40em) {
+@media (width > 40em) {
   main {
+    /* display: grid;
     grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto; */
+
+    h2 {
+      grid-column-start: 1;
+      grid-column-end: -1;
+    }
+    p {
+      font-size: var(--step-3);
+      grid-column-start: 1;
+      grid-column-end: 4;
+    }
+    img {
+      width: min(100%, 30rem);
+      grid-column-start: 3;
+      grid-column-end: 5;
+    }
+
+    p,
+    ol,
+    li {
+      font-size: var(--step-1);
+      font-family: "written";
+      grid-column-start: 1;
+      grid-column-end: 3;
+      grid-row-start: 2;
+      grid-row-end: 3;
+    }
   }
 }

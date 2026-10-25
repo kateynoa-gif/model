@@ -1,0 +1,130 @@
+/**************************
+* MARK: Styling voor about me pag
+**************************/
+
+header h1 {
+  font-family: "whimsical", serif;
+  text-align: center;
+  font-size: var(--step-4);
+  margin: 0;
+  line-height: 1;
+}
+
+/**************************
+* MARK: Main
+**************************/
+
+main {
+  padding: var(--whitespace);
+  max-width: 75rem;
+  margin-inline: auto;
+
+  display: grid;
+
+  gap: var(--whitespace);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+
+  h2 {
+    font-size: var(--step-2);
+    margin: 0;
+    text-align: center;
+
+    grid-column-start: 1;
+    grid-column-end: -1;
+  }
+  p {
+    font-size: var(--step-1);
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  img {
+    width: min(100%, 22rem);
+    rotate: 10deg;
+    padding-top: 0%;
+    align-self: start;
+
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 6;
+    grid-row-end: 9;
+  }
+
+  p,
+  ol,
+  li {
+    font-size: var(--step-2);
+    font-family: "written";
+    grid-column-start: 1;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 3;
+  }
+
+  p:nth-of-type(1) {
+    grid-row: 3;
+  }
+  p:nth-of-type(2) {
+    grid-row: 4;
+  }
+  p:nth-of-type(3) {
+    grid-row: 5;
+  }
+}
+
+h3 {
+  font-family: "written";
+  font-size: var(--step-2);
+}
+
+h4 {
+  font-family: "written";
+  font-size: var(--step-2);
+  grid-column-start: 1;
+  grid-column-end: 5;
+}
+
+/**************************
+* MARK: Media laptop 
+**************************/
+
+@media (width > 40em) {
+  main {
+    /* display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: auto; */
+
+    h2 {
+      grid-column-start: 1;
+      grid-column-end: -1;
+    }
+
+    h4 {
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    p {
+      font-size: var(--step-3);
+      grid-column-start: 1;
+      grid-column-end: 4;
+    }
+    img {
+      width: min(100%, 30rem);
+      grid-column-start: 3;
+      grid-column-end: 5;
+      grid-row-start: 3;
+      grid-row-end: 6;
+    }
+
+    p,
+    ol,
+    li {
+      font-size: var(--step-1);
+      font-family: "written";
+      grid-column-start: 1;
+      grid-column-end: 3;
+      grid-row-start: 2;
+      grid-row-end: 3;
+    }
+  }
+}
