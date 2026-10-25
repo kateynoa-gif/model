@@ -1,7 +1,7 @@
 /* MARK: fonts */
 @font-face {
   font-family: "Seraphs";
-  src: url("style/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
+  src: url("../assets/style/SeraphsVF.woff2") format("woff2"); /* Modern Browsers */
 }
 
 html {
@@ -230,15 +230,20 @@ main {
     grid-row-end: 9;
     /* padding-top: 0.5em; */
   }
-}
 
-/**************************
-* MARK: Mobile grid
-**************************/
-/* main {
-  grid-template-columns: repeat(6, 1fr);
-  grid-template-rows: ;
-} */
+  eind-punt {
+    font-size: var(--step-5);
+    font-variation-settings:
+      "wght" 200,
+      "SRFS" 2;
+
+    grid-column-start: 6;
+    grid-column-end: 7;
+
+    grid-row-start: 9;
+    grid-row-end: 10;
+  }
+}
 
 /**************************
 * MARK: Laptop grid
@@ -247,9 +252,7 @@ main {
 @media (width > 60em) {
   main {
     display: grid;
-    /* grid-template-columns: repeat(5, 1fr);
-    grid-template-rows: repeat(9, 1fr); */
     grid-template-columns: repeat(5, minmax(0, 16rem));
-    grid-template-rows: repeat(15, 16rem);
+    grid-template-rows: repeat(9, 16rem);
   }
 }

@@ -7,33 +7,30 @@
     <meta name="color-scheme" content="dark light" />
 
     <title>[Digitaal Tuintje van Katey]</title>
-    <link rel="stylesheet" href="../CSS/pages.css" />
+
+    <link rel="stylesheet" href="../CSS/algemeen.css"" />
+    <link rel="stylesheet" href="../CSS/knoppenpaginas.css" />
   </head>
 
   <body>
     <header>
       <h1>About me....</h1>
 
-      <button popovertarget="cookie-popup">
+       <button popovertarget="cookie-popup" popovertargetaction="show">
         <img src="../Img/kleinkoekje.svg" alt="Link naar cookie gebruik" />
       </button>
 
-      <aside id="cookie-popup" popover>
+      <aside id="cookie-popup" popover="manual">
         <h2>Lieve lezer...</h2>
         <p>
-          Op mijn website maak ik noodgedwongen gebruik van cookies door het
-          gebruik van
+          Deze website maakt alleen gebruik van functionele cookies die niet
+          elders worden gebruikt, je kunt dus zonder zorgen relaxed browsen! Via
+          de knop “Mijn proces” kom je op de pagina van Github, zie hier het
           <a
             href="https://docs.github.com/en/site-policy/privacy-policies/github-cookies"
             target="_blank"
-            >GitHub
+            >Cookiebeleid van Github
           </a>
-          en
-          <a href="https://www.1001fonts.com/tos/privacy.html" target="_blank"
-            >1001fonts
-          </a>
-          graag zou ik adviseren om deze goed door te lezen voor het gebruik van
-          de website, deze website is alleen toegankelijk als u akkoord bent.
         </p>
 
         <button commandfor="cookie-popup" command="hide-popover">
@@ -61,21 +58,37 @@
       </p>
 
       <p>
-        Mijn favoriete ding in het leven is mijn vrienden! Ik vind het super
+        Mijn favoriete ding in het leven zijn mijn vrienden! Ik vind het super
         gezellig om sociale activiteiten bij te wonen met mijn studievereneging
         of drankjes op het terras te doen met vriendinnen van mijn vorige
         opleiding of van werk!
       </p>
 
-      <h4>Hieronder is mijn creatieve proces van deze periode te vinden</h4>
-
-      <button
-        onclick="
-          window.open('https://github.com/kateynoa-gif/model.git', '_blank')
-        "
-      >
-        Naar GitHub
-      </button>
+      <h4>
+        Bij de knop hieronder is mijn creatieve proces van deze periode te
+        vinden
+      </h4>
     </main>
+
+    <footer>
+      <p>Voor persoonlijk gebruik.</p>
+
+      <nav id="menu">
+        <ul>
+          <li><a href="../index.html">Home</a></li>
+          <li><a href="boeken.html">About me</a></li>
+          <li><a href="Pages/muziek.html">Muziek</a></li>
+          <li><a href="Pages/films.html">Films</a></li>
+          <li><a href="Pages/games.html">Games</a></li>
+          <li><a href="Pages/boeken.html">Boeken</a></li>
+          <li><a href="letithappen/index.html">Lyrics</a></li>
+          <li>
+            <a href="https://github.com/kateynoa-gif/model.git" target="_blank">
+              Mijn proces
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </footer>
   </body>
 </html>

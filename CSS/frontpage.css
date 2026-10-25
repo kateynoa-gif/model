@@ -1,7 +1,7 @@
 /**************************
 * MARK: Fonts
 **************************/
-
+/* 
 @font-face {
   font-family: "whimsical";
   src: url("../assets/style/Whimsical LoveS tory.otf");
@@ -10,12 +10,12 @@
 }
 /* wwww.1001fonts.com/demo-whimsical-love-story-font.html */
 
-@font-face {
+/* @font-face {
   font-family: "written";
   src: url("../assets/style/MoreSugar-Thin.otf");
   font-weight: 400;
   font-style: normal;
-}
+} */
 /* https://www.1001fonts.com/written-on-his-hands-font.html */
 /* https://www.1001fonts.com/more-sugar-font.html */
 
@@ -23,7 +23,7 @@
 * MARK: Custom properties
 **************************/
 
-html {
+/* html {
   color-scheme: light dark;
 
   --bg: light-dark(rgb(243, 157, 207), rgb(79, 16, 97));
@@ -33,10 +33,10 @@ html {
 
   --whitespace: 2em;
   --whitespace-s: 1em;
-  --whitespace-xs: 0.5em;
+  --whitespace-xs: 0.5em; */
 
-  /* MARK: textgrootte */
-  --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
+/* MARK: textgrootte */
+/* --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
   --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
   --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
   --step-3: clamp(1.728rem, 0.8978rem + 3.69vw, 4.2188rem);
@@ -45,10 +45,12 @@ html {
   --step-6: clamp(2.986rem, -0.7648rem + 16.6701vw, 14.2383rem);
 }
 
+/* https://www.modularscale.com */
+
 /**************************
 * MARK: Algemene Styling
 **************************/
-
+/* 
 *,
 *::after,
 *::before {
@@ -70,58 +72,64 @@ body {
   background: var(--bg);
   color: var(--color);
   margin: 0;
-}
+} */
 
 /**************************
 * MARK: Animatie
 **************************/
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   body {
     --ster-formaat: 20rem;
 
-    background-image: url("../Img/sterren2.svg");
+    background-image: url("../Img/sterren3.svg");
     background-size: var(--ster-formaat);
     background-attachment: fixed;
-    animation: zweef 70s linear infinite;
+    @media (prefers-reduced-motion: no-preference) {
+      animation: zweef 70s linear infinite;
+    }
   }
 }
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion */
 
-@keyframes zweef {
+/* @keyframes zweef {
   from {
     background-position: 0 0;
   }
   to {
     background-position: var(--ster-formaat) var(--ster-formaat);
   }
-}
+} */
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   body {
     --hart-formaat: 40rem;
 
-    background-image: url("../Img/hartjes.svg");
+    background-image: url("../Img/hartjes3.svg");
     background-size: var(--hart-formaat);
     background-attachment: fixed;
-    animation: zweef-hart 60s linear infinite;
-  }
-}
 
-@keyframes zweef-hart {
+    @media (prefers-reduced-motion: no-preference) {
+      animation: zweef 60s linear infinite;
+    }
+  }
+} */
+
+/* @keyframes zweef-hart {
   from {
     background-position: 0 0;
   }
   to {
     background-position: var(--hart-formaat) var(--hart-formaat);
   }
-}
-/* https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient */
+}  */
+https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient
 
 /**************************
 * MARK: Header
 **************************/
 
-header {
+/* header {
   padding: var(--whitespace) var(--whitespace) 0;
   max-width: 75rem;
   margin-inline: auto;
@@ -132,9 +140,9 @@ header {
     ".     .      koekje"
     "titel titel  titel";
   gap: var(--whitespace);
-}
+} */
 
-header > button {
+/* header > button {
   cursor: pointer;
   grid-area: koekje;
   justify-self: end;
@@ -145,81 +153,164 @@ header > button {
   top: var(--whitespace-xs);
   right: var(--whitespace-xs);
   z-index: 10;
-}
+} */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 
-header > button img {
+/* header button img {
   display: block;
   width: clamp(3rem, 2rem + 5vw, 5rem);
   height: auto;
   max-width: unset;
-}
 
-aside > button {
+  &:hover {
+    transform: scale(0.8);
+  }
+} */
+
+/* aside > button {
+  font-family: "written";
+  font-size: var(--step-0);
   align-items: center;
   display: inline-block;
   background: var(--bg);
-  color: #000;
+  color: var(--color);
   padding: 0.5em 1em;
   border-radius: 0.9em;
-  border: 3px solid #000;
+  border: 2px solid #000;
   text-decoration: none;
-}
-aside > button:hover {
-  background-color: var(--color);
-}
+
+  aside > button:hover {
+    background-color: white;
+  }
+} */
 
 header h1 {
   font-family: "whimsical", serif;
   grid-area: titel;
   text-align: center;
-  font-size: var(--step-5);
+  font-size: var(--step-6);
   margin: 0;
-  line-height: 1;
+  line-height: 0.8;
 }
 
 /**************************
 * MARK: Main
 **************************/
 
+/* alleen hoofdpag */
 main {
   padding: var(--whitespace);
   max-width: 75rem;
+  overflow: clip;
   margin-inline: auto;
 
   display: grid;
-
+  grid-template-columns: 1fr 3fr 1fr;
   gap: var(--whitespace);
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: auto;
-}
 
-main h2 {
-  font-size: var(--step-2);
-  margin: 0;
-  text-align: center;
+  grid-template-areas:
+    ".      subkop .     "
+    "me     text   text "
+    "muziek muziek muziek"
+    "films  films  films "
+    "games  games  games "
+    "boeken boeken boeken";
 
-  grid-column-start: 2;
-  grid-column-end: 4;
+  @media (width > 40em) {
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-areas:
+      "subkop subkop subkop subkop"
+      "me     text   text   .     "
+      "muziek muziek films  films "
+      "games  games  boeken boeken";
+  }
 }
 
 main p {
   font-size: var(--step-1);
-  grid-column-start: 2;
-  grid-column-end: 4;
 }
+
+main h2 {
+  font-size: var(--step-4);
+  grid-area: subkop;
+  margin: 0;
+  text-align: center;
+}
+
 p,
-ol,
-li {
-  font-size: var(--step-1);
+ol {
   font-family: "written";
-  grid-column-start: 2;
-  grid-column-end: 4;
+}
+
+/* alleen hoofdpag */
+main > a:nth-of-type(1) {
+  grid-area: me;
+  justify-self: center;
+
+  img {
+    width: min(100%, 10rem);
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
+  }
+}
+
+/* bron: Maja */
+main p:nth-of-type(1) {
+  font-family: "written";
+  grid-area: text;
+  text-align: left;
+}
+
+/* alle hartjes */
+main > a:nth-of-type(n + 2) {
+  max-width: 24em;
+  justify-self: center;
+
+  img {
+    transition: 0.1s;
+
+    &:hover {
+      transform: scale(0.8);
+    }
+  }
+}
+
+/* de oneven hartjes */
+main > a:nth-of-type(2n + 3) {
+  rotate: 30deg;
+}
+
+/* de even hartjes */
+main > a:nth-of-type(2n + 2) {
+  rotate: -30deg;
+}
+
+/* de plek voor elk hartje */
+main > a:nth-of-type(2) {
+  grid-area: muziek;
+}
+/* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale */
+
+main > a:nth-of-type(3) {
+  grid-area: films;
+}
+
+main > a:nth-of-type(4) {
+  grid-area: games;
+}
+
+main > a:nth-of-type(5) {
+  grid-area: boeken;
 }
 
 body > image {
   height: 10em;
 }
+
+/* einde /* alleen hoofdpag */
 
 h3 {
   font-family: "written";
@@ -228,25 +319,14 @@ h3 {
 
 h4 {
   font-family: "written";
-  font-size: var(--step-2);
-  grid-column-start: 2;
-  grid-column-end: 4;
+  font-size: var(--step-0);
 }
 
-/**************************
-* MARK: Media > 60em
-**************************/
-
-@media (width <= 40em) {
-  main {
-    grid-template-columns: repeat(4, 1fr);
-  }
-}
 /**************************
 * MARK: cookie popup
 **************************/
 
-[popover] {
+/* [popover] {
   font-size: 2em;
   font-family: "written", cursive;
   background: var(--accent-color);
@@ -255,17 +335,18 @@ h4 {
   border-radius: 1em;
   text-align: center;
   width: min(60rem, calc(100vw - 2rem));
-}
+} */
 
-[popover] h2 {
+/* [popover] h2 {
   font-family: "whimsical", serif;
-}
+} */
+
+/* https://www.w3schools.com/css/css3_buttons.asp */
 
 /**************************
 * MARK: Footer
 **************************/
-
-footer {
+/* Footer {
   background: var(--color);
   padding: var(--whitespace);
 
@@ -274,6 +355,7 @@ footer {
     color: #000;
 
     ul {
+      justify-content: center;
       padding: 0;
       display: flex;
       flex-wrap: wrap;
@@ -281,6 +363,7 @@ footer {
 
       li {
         list-style: none;
+        align-items: center;
       }
     }
 
@@ -290,13 +373,17 @@ footer {
       background: #f9d9ec;
       color: var(--color);
       padding: 0.5em 1em;
-      border-radius: 0.7em;
-      border: 1px solid #000;
+      border-radius: 0.9em;
+      border: 3px solid #000;
       text-decoration: none;
 
       &:hover {
+        background: var(--bg);
+      }
+
+      &:focus-visible {
         background: white;
       }
     }
   }
-}
+} */

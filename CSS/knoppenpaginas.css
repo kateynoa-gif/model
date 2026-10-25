@@ -2,20 +2,20 @@
 * MARK: Fonts
 **************************/
 
-@font-face {
+/* @font-face {
   font-family: "whimsical";
   src: url("../assets/style/Whimsical LoveS tory.otf");
   font-weight: 400;
   font-style: normal;
-}
+} */
 /* wwww.1001fonts.com/demo-whimsical-love-story-font.html */
 
-@font-face {
+/* @font-face {
   font-family: "written";
   src: url("../assets/style/MoreSugar-Thin.otf");
   font-weight: 400;
   font-style: normal;
-}
+} */
 /* https://www.1001fonts.com/written-on-his-hands-font.html */
 /* https://www.1001fonts.com/more-sugar-font.html */
 
@@ -23,7 +23,7 @@
 * MARK: Custom properties
 **************************/
 
-html {
+/* html {
   color-scheme: light dark;
 
   --bg: light-dark(rgb(243, 157, 207), rgb(79, 16, 97));
@@ -35,7 +35,7 @@ html {
   --whitespace-s: 1em;
   --whitespace-xs: 0.5em;
 
-  /* MARK: textgrootte */
+  MARK: textgrootte
   --step-0: clamp(1rem, 0.9167rem + 0.3704vw, 1.25rem);
   --step-1: clamp(1.2rem, 0.975rem + 1vw, 1.875rem);
   --step-2: clamp(1.44rem, 0.9825rem + 2.0333vw, 2.8125rem);
@@ -43,14 +43,12 @@ html {
   --step-4: clamp(2.0736rem, 0.6554rem + 6.303vw, 6.3281rem);
   --step-5: clamp(2.4883rem, 0.1537rem + 10.3761vw, 9.4922rem);
   --step-6: clamp(2.986rem, -0.7648rem + 16.6701vw, 14.2383rem);
-}
-
-/* https://www.modularscale.com */
+} 
 
 /**************************
 * MARK: Algemene Styling
 **************************/
-
+/* 
 *,
 *::after,
 *::before {
@@ -72,58 +70,63 @@ body {
   background: var(--bg);
   color: var(--color);
   margin: 0;
-}
+} */
 
 /**************************
 * MARK: Animatie
 **************************/
 
-@media (prefers-color-scheme: dark) {
+/* @media (prefers-color-scheme: dark) {
   body {
     --ster-formaat: 20rem;
 
-    background-image: url("../Img/sterren2.svg");
+    background-image: url("../Img/sterren3.svg");
     background-size: var(--ster-formaat);
     background-attachment: fixed;
-    animation: zweef 70s linear infinite;
-  }
-}
 
-@keyframes zweef {
+    @media (prefers-reduced-motion: no-preference) {
+      animation: zweef 70s linear infinite;
+    }
+  }
+} */
+
+/* @keyframes zweef {
   from {
     background-position: 0 0;
   }
   to {
     background-position: var(--ster-formaat) var(--ster-formaat);
   }
-}
+} */
 
-@media (prefers-color-scheme: light) {
+/* @media (prefers-color-scheme: light) {
   body {
     --hart-formaat: 40rem;
 
-    background-image: url("../Img/hartjes.svg");
+    background-image: url("../Img/hartjes3.svg");
     background-size: var(--hart-formaat);
     background-attachment: fixed;
-    animation: zweef-hart 60s linear infinite;
+    @media (prefers-reduced-motion: no-preference) {
+      animation: zweef 60s linear infinite;
+    }
   }
-}
+} */
 
-@keyframes zweef-hart {
+/* @keyframes zweef-hart {
   from {
     background-position: 0 0;
   }
   to {
     background-position: var(--hart-formaat) var(--hart-formaat);
   }
-}
+} */
 /* https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient */
 
 /**************************
 * MARK: Header
 **************************/
 
-header {
+/* header {
   padding: var(--whitespace) var(--whitespace) 0;
   max-width: 75rem;
   margin-inline: auto;
@@ -134,9 +137,9 @@ header {
     ".     .      koekje"
     "titel titel  titel";
   gap: var(--whitespace);
-}
+} */
 
-header > button {
+/* header > button {
   cursor: pointer;
   grid-area: koekje;
   justify-self: end;
@@ -147,41 +150,39 @@ header > button {
   top: var(--whitespace-xs);
   right: var(--whitespace-xs);
   z-index: 10;
-}
+} */
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor */
 
-header button img {
+/* header > button img {
   display: block;
   width: clamp(3rem, 2rem + 5vw, 5rem);
   height: auto;
   max-width: unset;
+} */
 
-  &:hover {
-    transform: scale(0.8);
-  }
-}
-
-aside > button {
+/* aside > button {
+  font-family: "written";
+  font-size: var(--step-0);
   align-items: center;
   display: inline-block;
   background: var(--bg);
-  color: red;
+  color: var(--color);
   padding: 0.5em 1em;
   border-radius: 0.9em;
-  border: 3px solid #000;
+  border: 2px solid #000;
   text-decoration: none;
 }
 aside > button:hover {
-  background-color: var(--color);
-}
+  background-color: white;
+} */
 
 header h1 {
   font-family: "whimsical", serif;
   grid-area: titel;
   text-align: center;
-  font-size: var(--step-6);
+  font-size: var(--step-5);
   margin: 0;
-  line-height: 0.8;
+  line-height: 1;
 }
 
 /**************************
@@ -194,118 +195,33 @@ main {
   margin-inline: auto;
 
   display: grid;
-  grid-template-columns: 1fr 3fr 1fr;
-  gap: var(--whitespace);
 
-  grid-template-areas:
-    ".      subkop .     "
-    "me     text   text "
-    "muziek muziek muziek"
-    "films  films  films "
-    "games  games  games "
-    "boeken boeken boeken";
+  gap: var(--whitespace);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: auto;
+}
+
+main h2 {
+  font-size: var(--step-2);
+  margin: 0;
+  text-align: center;
+
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 main p {
   font-size: var(--step-1);
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
-
-main h2 {
-  font-size: var(--step-4);
-  grid-area: subkop;
-  margin: 0;
-  text-align: center;
-}
-
 p,
-ol {
+ol,
+li {
+  font-size: var(--step-1);
   font-family: "written";
-}
-
-main > a:nth-of-type(1) {
-  grid-area: me;
-  justify-self: center;
-
-  img {
-    width: min(100%, 10rem);
-    transition: 0.1s;
-
-    &:hover {
-      transform: scale(0.8);
-    }
-  }
-}
-/* bron: Maja */
-main p:nth-of-type(1) {
-  font-family: "written";
-  grid-area: text;
-  text-align: left;
-}
-
-main > a:nth-of-type(2) {
-  grid-area: muziek;
-
-  img {
-    width: 100%;
-    rotate: -30deg;
-    transition: 0.1s;
-
-    &:hover {
-      transform: scale(0.8);
-    }
-  }
-}
-/* https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale */
-
-main > a:nth-of-type(3) {
-  grid-area: films;
-
-  img {
-    width: 100%;
-    rotate: 30deg;
-    transition: 0.1s;
-
-    &:hover {
-      transform: scale(0.8);
-    }
-  }
-}
-
-main > a:nth-of-type(4) {
-  grid-area: games;
-
-  img {
-    width: 100%;
-    rotate: -30deg;
-    transition: 0.1s;
-
-    &:hover {
-      transform: scale(0.8);
-    }
-  }
-}
-
-main > a:nth-of-type(5) {
-  grid-area: boeken;
-
-  img {
-    width: 100%;
-    rotate: 30deg;
-    transition: 0.1s;
-    &:hover {
-      transform: scale(0.8);
-    }
-  }
-}
-
-main > img:nth-of-type(1) {
-  grid-area: muziek;
-  width: 50%;
-  transition: 0.1s;
-
-  &:hover {
-    transform: scale(0.8);
-  }
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 body > image {
@@ -319,28 +235,25 @@ h3 {
 
 h4 {
   font-family: "written";
-  font-size: var(--step-0);
+  font-size: var(--step-2);
+  grid-column-start: 2;
+  grid-column-end: 4;
 }
 
 /**************************
-* MARK: Media > 60em
+* MARK: Media > 60em 
 **************************/
 
-@media (width > 40em) {
+@media (width <= 40em) {
   main {
     grid-template-columns: repeat(4, 1fr);
-    grid-template-areas:
-      "subkop subkop subkop subkop"
-      "me     text   text   .     "
-      "muziek muziek films  films "
-      "games  games  boeken boeken";
   }
 }
 /**************************
 * MARK: cookie popup
 **************************/
 
-[popover] {
+/* [popover] {
   font-size: 2em;
   font-family: "written", cursive;
   background: var(--accent-color);
@@ -349,31 +262,17 @@ h4 {
   border-radius: 1em;
   text-align: center;
   width: min(60rem, calc(100vw - 2rem));
-}
+} */
 
-[popover] h2 {
+/* [popover] h2 {
   font-family: "whimsical", serif;
-}
-
-aside button {
-  font-family: "written";
-  background-color: var(--bg);
-  /* border:; */
-  color: white;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  /* display: inline-block; */
-  font-size: var(--step-1);
-  cursor: pointer;
-}
-
-/* https://www.w3schools.com/css/css3_buttons.asp */
+} */
 
 /**************************
 * MARK: Footer
 **************************/
-Footer {
+
+/* footer {
   background: var(--color);
   padding: var(--whitespace);
 
@@ -382,7 +281,6 @@ Footer {
     color: #000;
 
     ul {
-      justify-content: center;
       padding: 0;
       display: flex;
       flex-wrap: wrap;
@@ -390,7 +288,6 @@ Footer {
 
       li {
         list-style: none;
-        align-items: center;
       }
     }
 
@@ -400,13 +297,17 @@ Footer {
       background: #f9d9ec;
       color: var(--color);
       padding: 0.5em 1em;
-      border-radius: 0.9em;
-      border: 3px solid #000;
+      border-radius: 0.7em;
+      border: 1px solid #000;
       text-decoration: none;
 
       &:hover {
         background: var(--bg);
       }
+
+      &:focus-visible {
+        background: white;
+      }
     }
   }
-}
+} */
