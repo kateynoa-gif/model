@@ -121,7 +121,7 @@ main {
 
   zacht-refrein {
     font-size: var(--step-1);
-    font-width: 100;
+    font-stretch: 100%;
     rotate: 30deg;
     opacity: 0.5;
 

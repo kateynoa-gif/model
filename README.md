@@ -1,13 +1,11 @@
-
-
 # Model van Kate
 
 Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
 
 ## Learning Log
 
+### woensdag 21 okt
 
-### woensdag 21 okt 
 feedback Diederik:
 
 - seraphs toevoegen lyric
@@ -24,11 +22,11 @@ feedback Diederik:
 
 -alles in main nesten
 
--sterren en hartjes lichter/donker 
+-sterren en hartjes lichter/donker
 
 evt: fotos op losse pages
 
-### woensdag 21 okt 
+### woensdag 21 okt
 
 Met Twan en Rein mijn website getest, hij kwam erg positief uit de test en ik ben er erg tevreden mee. Ik ga nu verder met aan mijn top 3 werken
 
@@ -47,11 +45,9 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 <img width="524" height="738" alt="Scherm­afbeelding 2026-10-20 om 18 48 26" src="https://github.com/user-attachments/assets/a4cb4421-5a2a-46a3-bf27-7829189e1c50" />
 <img width="1462" height="786" alt="Scherm­afbeelding 2026-10-20 om 18 44 04" src="https://github.com/user-attachments/assets/eecdf8a1-c866-4be1-ae6b-329a997ac179" />
 
-
 ### maandag 19 okt Webby getest
 
 <img width="1049" height="733" alt="Scherm­afbeelding 2026-10-19 om 20 23 08" src="https://github.com/user-attachments/assets/97da4233-fbc6-4df3-8870-6d6307758334" />
-
 
 ### donderdag 15 okt - schetsen gemaakt
 
@@ -64,41 +60,37 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 <img width="1509" height="865" alt="Scherm­afbeelding 2026-10-15 om 19 42 33" src="https://github.com/user-attachments/assets/d741a667-d12c-4e64-9cd4-34335a298f57" />
 <img width="843" height="627" alt="Scherm­afbeelding 2026-10-15 om 13 41 56" src="https://github.com/user-attachments/assets/f8c878df-53a2-4bb5-ba8a-d142c5918505" />
 
-
-
 <img width="743" height="871" alt="Scherm­afbeelding 2026-10-15 om 19 52 49" src="https://github.com/user-attachments/assets/183a5a8a-19a5-4661-a091-a6f1f52fd3fd" />
 <img width="499" height="597" alt="Scherm­afbeelding 2026-10-15 om 19 34 29" src="https://github.com/user-attachments/assets/bd62259d-db3c-4d24-b00f-d08f7ee88520" />
 
+### woensdag 7 okt - werken aan code + schetsen
 
-
-### woensdag 7 okt - werken aan code + schetsen 
-Deep dive 
+Deep dive
 <img width="791" height="733" alt="Scherm­afbeelding 2026-10-07 om 15 25 15" src="https://github.com/user-attachments/assets/a28d2874-67b3-4c4b-86fb-c9ee5d627d99" />
 <img width="837" height="687" alt="Scherm­afbeelding 2026-10-07 om 15 46 05" src="https://github.com/user-attachments/assets/43966cf1-4d9a-429a-ad1c-0ba414b5bde0" />
 <img width="1231" height="833" alt="Scherm­afbeelding 2026-10-07 om 16 16 04" src="https://github.com/user-attachments/assets/28deda7f-e215-45f3-b0e6-9e5856b956f3" />
-
-
 
 Waarom is het goed om een grid in je ontwerp toe te passen? Noem een reden voor de ontwerper en een voor de bezoeker.
 
 - ontwerper = het geeft duidelijke organisatie in je ontwerp en helpt met onderdelen op hun plek zetten.
 - bezoeker= de visuele hiërarchie helpt met het makkelijk lezen van een website en een fijn overzicht te hebben.
- 
+
 Noem drie manieren om chaos in je ontwerp te voorkomen.
+
 - een grid
 - witruimte
 - visuele hiërarchie (grootte en kleur etc)
 
 Hoeveel gekkigheid moet er in je werk zitten?
+
 - genoeg om leuk te zijn, niet teveel dat het onleesbaar is.
 
 <img width="563" height="453" alt="Scherm­afbeelding 2026-10-07 om 12 44 23" src="https://github.com/user-attachments/assets/51975306-da88-435c-be0e-2eaf8cdaa536" />
 <img width="568" height="758" alt="Scherm­afbeelding 2026-10-07 om 12 43 10" src="https://github.com/user-attachments/assets/cd09048b-a3c4-4ce1-b60e-711e5bbc83fe" />
 
-
 ### dinsdag 6 okt - zelfstudie
 
-Deep dive interesantere layout gemaakt. 
+Deep dive interesantere layout gemaakt.
 
 Ik heb hiervan geleerd hoe ik lettertypes kan draaien en snap beter hoe clamps werken, hoewel ik dit nog wel ingewikkeld vindt.
 <img width="1258" height="730" alt="Scherm­afbeelding 2026-10-06 om 18 03 38" src="https://github.com/user-attachments/assets/74658511-7b13-459e-82e8-f38af2da19b7" />
@@ -107,7 +99,7 @@ Ik heb hiervan geleerd hoe ik lettertypes kan draaien en snap beter hoe clamps w
 
 <img width="794" height="585" alt="Scherm­afbeelding 2026-10-06 om 16 56 09" src="https://github.com/user-attachments/assets/d16b021e-8868-4c1b-ab0f-c3a2a8052d56" />
 
-Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension. 
+Leg uit wat er met de volgende termen bedoeld wordt: kerning, tracking, leading, flush-left, flush-right, centered, justified, indent, outdent, modular scale, movable type, focus punt, vijf soorten contrast, spatial tension.
 
 - kerning= de ruimte tussen 2 specifieke letters
 - tracking= De algemene letterafstand van een heel woord, een zin of een tekstblok
@@ -127,18 +119,17 @@ Mijn ideale regellengte is ongeveer 50–75 tekens per regel
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Grootte, hiermee kan je goed uitdrukken wat belangrijk is en wat niet, ook de leesvolgorde kan je hiermee bepalen
 
-
 ### vrijdag 2 okt - retrospect en beoordelingsgesprek
-
 
 Mijn website bewerkt na de validator: cookie naam verandert.
 <img width="1453" height="809" alt="Scherm­afbeelding 2026-10-02 om 12 30 42" src="https://github.com/user-attachments/assets/df0829c6-4845-445c-9d15-f6ced2c7c1dd" />
 
 Feedback Diederik:
+
 - Typografie: makkelijker leesbaar lettertype
-- hartjes kleiner bij groot scherm 
+- hartjes kleiner bij groot scherm
 - Dark mode omgekeerd: lichte letters
-- tekeningen op achtergrond :NIET ingekleurd voor verschil knop/geen knop 
+- tekeningen op achtergrond :NIET ingekleurd voor verschil knop/geen knop
 - light mode: groter contrast maken
 - font p groter maken
 
@@ -147,11 +138,12 @@ Feedback Diederik:
 <img width="616" height="394" alt="Scherm­afbeelding 2026-10-02 om 11 41 45" src="https://github.com/user-attachments/assets/83b193d2-61a0-48d6-b3f4-c261b516d234" />
 <img width="620" height="438" alt="Scherm­afbeelding 2026-10-02 om 11 41 29" src="https://github.com/user-attachments/assets/b289eaa8-c611-412c-aa53-0f8dbbc2222f" />
 
-Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijken. 
+Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijken.
 
 ### donderdag 1 okt - website bijgewerkt
 
 Aanpassingen:
+
 - leesbaarheid beter gemaakt door hoger contrast
 - text vergroot en in het midden outgelined
 - onderaan nav bar toegevoegd voor easy acces
@@ -164,11 +156,9 @@ Aanpassingen:
 <img width="557" height="835" alt="Scherm­afbeelding 2026-10-01 om 16 00 06" src="https://github.com/user-attachments/assets/a4cdf3f2-aec0-4d8e-af73-4f873d474b07" />
 <img width="564" height="855" alt="Scherm­afbeelding 2026-10-01 om 15 56 25" src="https://github.com/user-attachments/assets/11d9bdce-928e-4186-b1cd-13e2b692bd2a" />
 
-
-
 ### dinsdag 30 sept - WCAG & checkout
 
-Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website. 
+Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website.
 
 <img width="549" height="338" alt="Scherm­afbeelding 2026-10-01 om 13 03 52" src="https://github.com/user-attachments/assets/38e399f6-0dea-4235-802d-e5caf05b9256" />
 <img width="570" height="395" alt="Scherm­afbeelding 2026-10-01 om 13 03 46" src="https://github.com/user-attachments/assets/4e977132-74cf-4602-9cd8-69c1c7352b39" />
@@ -182,29 +172,28 @@ Ik heb ontdekt dat mijn website aan meer van de richtlijnen voldoet dan ik dacht
 <img width="563" height="642" alt="Scherm­afbeelding 2026-10-01 om 13 01 58" src="https://github.com/user-attachments/assets/93ff0123-97e6-454c-bdcf-848ebbe8e8b4" />
 <img width="574" height="705" alt="Scherm­afbeelding 2026-10-01 om 13 01 49" src="https://github.com/user-attachments/assets/c48c76e6-dae4-4d87-b76b-e158eb519043" />
 
-
-
-
-
 Waar staat WCAG en A11y voor?
+
 - wacg zijn richtlijnen en de A11y is de leesbare vertaling ervan
 
 Wat vind je lastiger, je laptop/websites alleen met een toetsenbord bedienen of met een screenreader? Waarom? Waar moet je nog mee oefenen?
+
 - beide vind ik moeilijk, en beide moet ik nog mee oefenen.
-  
+
 Met welke beperking rekening houden vind je het meest lastig?
+
 - het hele coderen vind ik erg lastig, ik vind het moeilijk om mijn ideeën om te zetten in codeer-taal en hier nog creatief mee zijn.
 
 Vind je dat je beperkt wordt in wat je kunt ontwerpen?
-(Of heb je al manieren gevonden om vanuit een solide basis  - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden)
-- Ja, ik merk hel erg dat het mijn creatieve vrijheid belemmert en dat ik het moeilijk vind om elementen toe te voegen. 
+(Of heb je al manieren gevonden om vanuit een solide basis - die voor iedereen toegankelijk is - allemaal leuke en mooie extra's toe te voegen als je bezoekers dat goed vinden)
+
+- Ja, ik merk hel erg dat het mijn creatieve vrijheid belemmert en dat ik het moeilijk vind om elementen toe te voegen.
 
 <img width="1512" height="950" alt="Scherm­afbeelding 2026-09-30 om 09 34 39" src="https://github.com/user-attachments/assets/f99186bc-2a90-4dd2-88a3-1a36088ee20d" />
 
-### dinsdag 29 sept - deep dive & popup gemaakt 
+### dinsdag 29 sept - deep dive & popup gemaakt
 
 <img width="1294" height="680" alt="Scherm­afbeelding 2026-09-28 om 10 09 07" src="https://github.com/user-attachments/assets/736346a0-3bc8-4ebc-9362-cc7518a05dd3" />
-
 
 ### maandag 28 sept - bi weekly geek
 
@@ -212,25 +201,25 @@ Vind je dat je beperkt wordt in wat je kunt ontwerpen?
 
 <img width="906" height="602" alt="Scherm­afbeelding 2026-09-29 om 20 45 48" src="https://github.com/user-attachments/assets/9deae02c-bf9e-4f57-ac09-a772ec019e87" />
 
-
 Wat bedoelt Vasilis met de uitspraak: Semantiek doet mij niet zo veel, ik ben liever bezig met de UX van HTML?
+
 - Het doelt op hetzelfde, de user experience van html heeft te maken met de semantiek.
 
 Wat voor type beperkingen hebben invloed op het gebruiken van websites?
+
 - visueel, audiotief en cognitief
-- 
-Noem drie manieren om door een website te navigeren met jouw screenreader.
+- Noem drie manieren om door een website te navigeren met jouw screenreader.
 - tap, pijltjes en spatie
 
 ### 25 sept - deep dive
 
-Deep dive positions en dialogs 
+Deep dive positions en dialogs
+
 - Ik heb in deze deep dive geleerd hoe ik de positie vastzet, ik kan mijn cookie vastzetten aan de bovenkant van het scherm, die dan blijft plakken.
-  
+
 <img width="1233" height="706" alt="Scherm­afbeelding 2026-09-25 om 14 39 08" src="https://github.com/user-attachments/assets/6f565435-52fe-404a-ab8f-784dcfc49289" />
 
 ### 24 sept - Huiswerk gemaakt en aan cookie pop up en code gewerkt
-
 
 <img width="490" height="322" alt="Scherm­afbeelding 2026-09-24 om 15 39 55" src="https://github.com/user-attachments/assets/7e1e9292-09f2-4577-926e-fc9bdca18ce6" />
 <img width="1317" height="605" alt="Scherm­afbeelding 2026-09-24 om 19 50 40" src="https://github.com/user-attachments/assets/455bed4f-695e-4cb2-9040-da31a9d6fa56" />
@@ -240,34 +229,36 @@ Ik heb besloten om mijn website te veranderen, ik houd het nogsteeds erg girlie 
 <img width="546" height="772" alt="Scherm­afbeelding 2026-09-24 om 14 17 10" src="https://github.com/user-attachments/assets/3d788daa-b1ea-4931-9876-2282654971f1" />
 
 ### 23 sept - Les gehad over cookies
+
 checkout:
 
 Wat is een wireflow en wat heb je er aan?
+
 - het laat de stappen in een app/website zien, je kunt hier snel mee zien hoe een systeem werkt en wat je er aan hebt/mee kan.
 
 Wat zijn dark UX patterns? Geef drie voorbeelden...
+
 - roach motel: ergens niet meer uit komen of in verdwalen, urgentie creëren: een vals gevoel van urgentie geven die inspeelt op de stress van de koper, highlights: bepaalde knoppen een andere kleur of uiterlijk geven wat de gebruiker manipuleert dat dit de "juiste" keus is.
 
 Waar moet je als ontwerper rekening mee houden bij het maken van een human consent component?
+
 - Dat de gebruiker mogelijk de website niet kan gebruiken als ze geen consent geven
 
-wireframes en een wireflow van ZARA website, dark patterns eronder beschreven. 
+wireframes en een wireflow van ZARA website, dark patterns eronder beschreven.
 
 <img width="1072" height="752" alt="Scherm­afbeelding 2026-09-24 om 12 55 26" src="https://github.com/user-attachments/assets/e1c6103f-410c-4366-ab40-96aa167b4d81" />
 
 ### 22 sept - Deep dives en huiswerk gemaakt
+
 Tijdens deze deepdive heb ik gewerkt met buttons, ik snap redenlijk nu hoe deze werken.
 
-<img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" /> 
+<img width="1024" height="756" alt="Scherm­afbeelding 2026-09-22 om 17 40 18" src="https://github.com/user-attachments/assets/90e49bc9-e993-45e9-9ba0-1f75e7d89cb1" />
 
-### 21 sept - Gezamenlijke codeer les 
+### 21 sept - Gezamenlijke codeer les
 
 Opdracht cookies accepteren met Lysanne gemaakt.
 
 <img width="1060" height="768" alt="Scherm­afbeelding 2026-09-22 om 20 14 34" src="https://github.com/user-attachments/assets/ba4ab006-2a7d-4765-889c-59be902a5747" />
-
-
-
 
 Wat zijn html landmark role elements
 
@@ -280,8 +271,6 @@ Wat zijn heading elementen en hoe horen deze genest te worden?
 Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd na het volgen van dit college.
 
 - Ik accepteer ze meestal wel, maar ben er na deze les voorzichtiger mee.
-
-
 
 ### 18 sept - checkout en beoordeling
 
@@ -301,10 +290,8 @@ Ik heb nog niet echt getest met een mijn prototype, dus weet niet goed hoe de si
 Evalueren
 
 Wat ik wilde weten/bereiken is of ik een website kon coderen waar je mijn persoonlijke interesse op kunt vinden en als gebruiker kunt relaxen. Ik heb geschetst, code getypt, mijn proces bijgehouden en ergggg veel geleerd over css in alle deep dives.
-Ik merkte dat het mij persoonlijk erg hielp om bij de deep dives te zijn en om hulp in persoon te vragen zodat ik het echt grondig begrijp. Ik vond na al deze moeite het resultaat erg matig, ik merkte dat ik altijd erg unieke resultaten wil, die dan moeilijker te coderen zijn, de volgende keer zal ik mijn ideeën haalbaarder maken. Ik weet nog lang niet alles van code en vind dit over het algemeen een moeilijk onderwerp, ik heb moeite met de exacte formuleringen opschrijven van de codes en bijvoorbeeld grids. 
+Ik merkte dat het mij persoonlijk erg hielp om bij de deep dives te zijn en om hulp in persoon te vragen zodat ik het echt grondig begrijp. Ik vond na al deze moeite het resultaat erg matig, ik merkte dat ik altijd erg unieke resultaten wil, die dan moeilijker te coderen zijn, de volgende keer zal ik mijn ideeën haalbaarder maken. Ik weet nog lang niet alles van code en vind dit over het algemeen een moeilijk onderwerp, ik heb moeite met de exacte formuleringen opschrijven van de codes en bijvoorbeeld grids.
 Ik vind coderen ook niet echt leuk en doe het liever niet, ik vind het wel erg cool om iets van mezelf op het web te hebben en probeer hier zo goed als mogelijk in te worden. Ik merk dat de eisen voor deze opdracht voor mij momenteel erg vaag zijn, en dat ik deze even moet opfrissen.
-
-
 
 Retrospective
 
@@ -312,7 +299,6 @@ Ik vond deze retrospective niet veel inzicht geven, dat kreeg ik meer door mijn 
 <img width="1106" height="765" alt="Scherm­afbeelding 2026-09-18 om 11 25 08" src="https://github.com/user-attachments/assets/e8465638-d90c-4683-8c3d-3516b36d31fa" />
 <img width="1101" height="769" alt="Scherm­afbeelding 2026-09-18 om 11 24 44" src="https://github.com/user-attachments/assets/ed9fd21b-0d04-4e5b-aa20-7212bbc15534" />
 <img width="1190" height="753" alt="Scherm­afbeelding 2026-09-18 om 11 24 22" src="https://github.com/user-attachments/assets/d1f25d0d-2d9f-41a0-a974-c14d4580e1f0" />
-
 
 ### 16 sept - schetsen
 
@@ -323,9 +309,6 @@ Nieuwe schetsen gemaakt voor mijn desktop-first versie. Ik heb geleerd dat ik me
 <img width="695" height="522" alt="Scherm­afbeelding 2026-09-16 om 10 47 33" src="https://github.com/user-attachments/assets/0f1dd73f-aa6f-4676-b6e4-69d7ee049fcc" />
 <br>
 
-
-
-
 ### 15 sept - deep dive grid
 
 Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werken.
@@ -334,13 +317,10 @@ Ik heb in deze deep dive geleerd hoe ik op een nieuwe manier met grids kan werke
 <img width="1257" height="703" alt="Scherm­afbeelding 2026-09-15 om 15 34 39" src="https://github.com/user-attachments/assets/97cc45e3-a5f8-40a5-8b1f-f67c26664ab3" />
 <img width="1208" height="647" alt="Scherm­afbeelding 2026-09-15 om 15 23 41" src="https://github.com/user-attachments/assets/a879b36a-8f06-4399-9e98-4a5f01456a70" />
 
-
 ### 14 sept - werkgroep
 
 <img width="1117" height="763" alt="Scherm­afbeelding 2026-09-16 om 10 53 27" src="https://github.com/user-attachments/assets/97468919-ee5c-4576-8c92-f91d01631d7d" />
 <img width="2122" height="1390" alt="image" src="https://github.com/user-attachments/assets/a3f8c1bd-a1bd-4e00-a5ca-716de60a568a" />
-
-
 
 - Leg uit wanneer een websites 'lelijk' wordt
 
@@ -362,9 +342,7 @@ Deepdive grids
 <img width="1165" height="630" alt="Scherm­afbeelding 2026-09-11 om 15 34 52" src="https://github.com/user-attachments/assets/44377d4a-31e7-4118-a6be-66791dd3845d" />
 <img width="1071" height="568" alt="Scherm­afbeelding 2026-09-11 om 15 41 36" src="https://github.com/user-attachments/assets/5aadf16d-b9d8-4d8b-9ea2-bb568188194d" />
 
-
 ### 10 sept - zelfstandig werk en deepdives
-
 
 mobile first schetsen
 <br>
@@ -375,25 +353,19 @@ Deep dive gradients
 <img width="1248" height="762" alt="Scherm­afbeelding 2026-09-10 om 16 14 26" src="https://github.com/user-attachments/assets/37810ddd-9470-4965-90f1-0f4e2537b18c" />
 <img width="1270" height="787" alt="Scherm­afbeelding 2026-09-10 om 14 55 53" src="https://github.com/user-attachments/assets/9bc58c8c-84d5-4eda-9d47-209b61a8fd5f" />
 
-
-
-
-
 zelfstandig de voorbereiding gedaan voor de deep dive light & dark theme.<br>
 <img width="1003" height="601" alt="Scherm­afbeelding 2026-09-10 om 12 55 52" src="https://github.com/user-attachments/assets/9bf8ce1a-dd53-48fc-8f4c-797eee288030" />
 <img width="1077" height="685" alt="Scherm­afbeelding 2026-09-10 om 12 55 46" src="https://github.com/user-attachments/assets/ebe7036e-450a-4b63-8574-15cda09cf285" />
 <img width="898" height="655" alt="Scherm­afbeelding 2026-09-10 om 12 07 15" src="https://github.com/user-attachments/assets/6a2978c9-0636-4ba7-94a0-501ce27b8450" />
 <img width="971" height="667" alt="Scherm­afbeelding 2026-09-10 om 12 06 56" src="https://github.com/user-attachments/assets/ab6fc378-c1da-4a1b-82e8-3c756852316c" />
 
-
-
-
 ### 9 sept - presentaties en online les
-Check out: 
-Mijn garden is een safe space voor meiden om op te kunnen relaxen en inspiratie op te doen, voor muziek, boeken, games, sociale activiteiten etc. Het is de bedoeling dat ze die activiteiten ook buiten het web kunnen uitvoeren, maar ook lekker kunnen chillen en inspiratie opdoen op de site. 
+
+Check out:
+Mijn garden is een safe space voor meiden om op te kunnen relaxen en inspiratie op te doen, voor muziek, boeken, games, sociale activiteiten etc. Het is de bedoeling dat ze die activiteiten ook buiten het web kunnen uitvoeren, maar ook lekker kunnen chillen en inspiratie opdoen op de site.
 Het lijkt me leuk om er veel afbeeldingen in te verwerken en zelf getekende illustraties en animaties te maken.
 <br>
-Van mijn crazy 8 wil ik het idee voor cursieve letters, mijn illustraties en de knoppen in de vorm van bijv. bloemen meenemen. 
+Van mijn crazy 8 wil ik het idee voor cursieve letters, mijn illustraties en de knoppen in de vorm van bijv. bloemen meenemen.
 <br>
 <img width="397" height="737" alt="Scherm­afbeelding 2026-09-09 om 16 42 08" src="https://github.com/user-attachments/assets/b492dfe2-a082-454b-9d0d-7559fec82e65" />
 
@@ -405,43 +377,42 @@ Van mijn crazy 8 wil ik het idee voor cursieve letters, mijn illustraties en de 
 <br>
 
 1. Wat is voor jou de essentie van wat je hebt gepresenteerd qua onderwerp en geschreven/beeldende content? ​
-Het gaat over een girly-website waar inspiratie en een nostalgische sfeer bovenaan staan.
-<br>
-3. Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
-kwaliteitenlijst??
-<br>
-4. Heeft 'de ander' een aanvulling op je onderwerp?​
-Laura de Vos  vroeg of je kon gamen op mijn website.
-<br>
-5. Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
-nostalgisch, rom com, ik wil dat mensen urenlang op mijn website kunnen relaxen en geïnspireerd worden. 
-<br>
-6. Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
-Retro, nostalgisch, vrouwelijk.
-<br>
-7. Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​
-ik will tegels maken met afbeeldingen die leiden naar artikelen met bijv info over gameplay etc.
-<br>
-8. Vul deze zin aan:
-Ik wil mijn Digital Garden laten gaan over vrijetijdsbesteding voor meiden.
-en wil dat laten zien door inspirerende content over, muziek, games, boeken, films, etc. te tonen.
-Ik begin met een stukje eigen content over mezelf. ​
-Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door steeds meer inspiratie toe te voegen.
-<br>​
-
-
+   Het gaat over een girly-website waar inspiratie en een nostalgische sfeer bovenaan staan.
+   <br>
+2. Welke woorden uit de kwaliteitenlijst kunnen passen bij je onderwerp?​
+   kwaliteitenlijst??
+   <br>
+3. Heeft 'de ander' een aanvulling op je onderwerp?​
+   Laura de Vos vroeg of je kon gamen op mijn website.
+   <br>
+4. Wat is het karakter/ de uitstraling/ het gevoel dat bij het onderwerp past? (bijv. stoer, hip, vrolijk, dynamisch, eenvoudig, enz.)​
+   nostalgisch, rom com, ik wil dat mensen urenlang op mijn website kunnen relaxen en geïnspireerd worden.
+   <br>
+5. Welke inspiratie kun je uit je 25 afbeeldingen halen. Stijl, een gevoel, vorm, enz.​
+   Retro, nostalgisch, vrouwelijk.
+   <br>
+6. Wat zou je willen vertellen over het onderwerp aan een ander? en hoe zou je dat voor je kunnen zien? middels welke beeld, tekst, animatie, inhoudelijke content? (bijv. Ik wil voornamelijk afbeeldingen tonen, als een soort Pinterest, of ik wil muziek fragmenten laten horen, of ik gebruik korte teksten met eigen foto's). ​
+   ik will tegels maken met afbeeldingen die leiden naar artikelen met bijv info over gameplay etc.
+   <br>
+7. Vul deze zin aan:
+   Ik wil mijn Digital Garden laten gaan over vrijetijdsbesteding voor meiden.
+   en wil dat laten zien door inspirerende content over, muziek, games, boeken, films, etc. te tonen.
+   Ik begin met een stukje eigen content over mezelf. ​
+   Als het begin is gemaakt kan ik mijn Garden verder uitbreiden door steeds meer inspiratie toe te voegen.
+   <br>​
 
 ### 7 sept - 1ste werkgroep met artikelen
+
 De checkout vragen voor vandaag:
 
 1. Leg uit wat een digital garden is en waarom dat anders is dan een reguliere website.
-Een digital garden is een persoonlijke website die als doel heeft om creatieve vrijheid te uiten en jouw interesses laten zien.
+   Een digital garden is een persoonlijke website die als doel heeft om creatieve vrijheid te uiten en jouw interesses laten zien.
 
 2. Leg uit wat een website 'webby' maakt en welke websites jou het meeste inspireren.
-Websites die fijn werken, goed leesbaar zijn en leuk om te bezoeken.
+   Websites die fijn werken, goed leesbaar zijn en leuk om te bezoeken.
 
 3. Vertel waar jij mee aan de slag wilt gaan bij het maken van jouw eigen digital garden (let op: dit zijn jouw eerste ideeën, dit kan en mag veranderen in de loop van het programma.
-een meiden-website waarop je kunt vinden wat te doen als je je verveeld, met leuke films etc
+   een meiden-website waarop je kunt vinden wat te doen als je je verveeld, met leuke films etc
 
 <br>
 artikel: "a brief history & ethos of the digital garden"
@@ -454,14 +425,8 @@ Webby sites
 
 <img width="943" height="687" alt="Scherm­afbeelding 2026-09-07 om 14 44 33" src="https://github.com/user-attachments/assets/f1352c4e-b969-46c2-aceb-abfc31d15a15" />
 
-
-
-
-
-
-
-
 ### 4 sept - [Workshops]
+
 <br>
 S0 - CSS: fonts met kleur en effecten (Sanne)
 Hier veel geleerd over fonts en deze te gebruiken, huiswerk gemaakt.
@@ -475,16 +440,13 @@ Vandaag veel geleerd over CSS en de opbouw van een pagina, ik snap nu beter de m
 <img width="1566" height="1328" alt="image" src="https://github.com/user-attachments/assets/ec9154db-e2ef-4cbf-809c-534959c5b8fc" />
 <img width="2468" height="1470" alt="image" src="https://github.com/user-attachments/assets/03570a3e-e4ba-4e76-a1c4-c657c92e03a6" />
 
-
 ### 2 sept - [Workshops]
+
 <p> S0 - HTML & CSS Basics van Justus </p> 
 Gevraagd waarvoor ongeordende lijsten worden gebruikt en antwoord gekregen. Verder snapte ik de basic werking van html en css nog niet zo goed, en snap ik deze na deze les wel. 
 <br>
 <p> S0 - Interactie: MMD, micro-interacties, forms van Nicky </p>
 <img width="963" height="734" alt="Scherm­afbeelding 2026-09-02 om 12 41 38" src="https://github.com/user-attachments/assets/98e564b2-4585-4e51-8d63-b6f6f7c949ab" />
-
-
-
 
 ### 31 aug - Kickoff
 
@@ -495,4 +457,4 @@ GitHub, ik heb hiervoor gekozen omdat we hier vorig jaar mee hebben gewerkt
 <p> 2 Vertel welke domeinnaam jij gekozen hebt en hoe je die hebt gekoppeld aan jouw pagina.</p>
 Kateybrinckman.nl, het lukte momenteel niet om deze te koppelen.
 <p>3 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.</p>
-Geen idee. 
+Geen idee.

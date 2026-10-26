@@ -2,14 +2,6 @@
 * MARK: Styling voor about me pag
 **************************/
 
-header h1 {
-  font-family: "whimsical", serif;
-  text-align: center;
-  font-size: var(--step-4);
-  margin: 0;
-  line-height: 1;
-}
-
 /**************************
 * MARK: Main
 **************************/
@@ -32,6 +24,18 @@ main {
 
     grid-column-start: 1;
     grid-column-end: -1;
+  }
+
+  h3 {
+    font-family: "written";
+    font-size: var(--step-2);
+  }
+
+  h4 {
+    font-family: "written";
+    font-size: var(--step-2);
+    grid-column-start: 1;
+    grid-column-end: 5;
   }
   p {
     font-size: var(--step-1);
@@ -72,28 +76,12 @@ main {
   }
 }
 
-h3 {
-  font-family: "written";
-  font-size: var(--step-2);
-}
-
-h4 {
-  font-family: "written";
-  font-size: var(--step-2);
-  grid-column-start: 1;
-  grid-column-end: 5;
-}
-
 /**************************
 * MARK: Media laptop 
 **************************/
 
 @media (width > 40em) {
   main {
-    /* display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-template-rows: auto; */
-
     h2 {
       grid-column-start: 1;
       grid-column-end: -1;

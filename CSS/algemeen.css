@@ -32,8 +32,10 @@ html {
   color-scheme: light dark;
 
   --bg: light-dark(rgb(243, 157, 207), rgb(79, 16, 97));
-  --color: light-dark(rgb(178, 23, 105), rgb(208, 139, 233));
-  --accent-color: #f87cc5;
+  --color: light-dark(rgb(178, 23, 105), rgb(211, 116, 246));
+  --accent-color: #ffe9f6;
+  --lichtroze: #fdb2de;
+  --donkerroze: rgb(178, 23, 105);
   --border-width: 0.1em;
 
   --whitespace: 2em;
@@ -88,7 +90,7 @@ body {
   height: 100%;
   position: fixed;
   pointer-events: none;
-  filter: drop-shadow(5px 5px 10px #000) drop-shadow(0px 0px 7px #f2cb05);
+  filter: drop-shadow(5px 5px 10px #000) drop-shadow(0px 0px 7px var(--color));
   animation: opac 1s linear infinite;
 }
 .star::before {
@@ -111,9 +113,12 @@ body {
     2% 35%,
     39% 35%
   );
-  background-color: #f2cb05;
+  background-color: var(--color);
   animation: fly 4s linear infinite;
 }
+
+/* Bron: https://codepen.io/Vampika/pen/BaemKrZ */
+/* Kleur aangepast */
 
 @keyframes fly {
   0% {
@@ -246,11 +251,11 @@ aside > button {
   color: var(--color);
   padding: 0.5em 1em;
   border-radius: 0.9em;
-  border: 2px solid #000;
+  border: 2px solid var(--bg);
   text-decoration: none;
 
   &:hover {
-    background-color: white;
+    background-color: var(--accent-color);
   }
 }
 
@@ -259,18 +264,18 @@ aside > button {
 **************************/
 
 [popover] {
-  font-size: var(--step-0);
+  font-size: var(--step-1);
   font-family: "written", cursive;
-  background: var(--accent-color);
-  color: black;
+  background: var(--color);
+  color: var(--bg);
   padding: var(--whitespace);
   border-radius: 1em;
   text-align: center;
   width: min(60rem, calc(100vw - 2rem));
-}
 
-[popover] h2 {
-  font-family: "whimsical", serif;
+  h2 {
+    font-family: "whimsical", serif;
+  }
 }
 
 /* https://www.w3schools.com/css/css3_buttons.asp */
@@ -278,7 +283,7 @@ aside > button {
 /**************************
 * MARK: Footer
 **************************/
-Footer {
+footer {
   background: var(--color);
   padding: var(--whitespace);
 
@@ -302,7 +307,7 @@ Footer {
     a {
       align-items: center;
       display: inline-block;
-      background: #f9d9ec;
+      background: var(--bg);
       color: var(--color);
       padding: 0.5em 1em;
       border-radius: 0.9em;
@@ -310,11 +315,11 @@ Footer {
       text-decoration: none;
 
       &:hover {
-        background: var(--bg);
+        background: var(--accent-color);
       }
 
       &:focus-visible {
-        background: white;
+        background: var(--accent-color);
       }
     }
   }
