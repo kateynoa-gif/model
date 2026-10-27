@@ -6,11 +6,14 @@ https://kateybrinckman.nl/
 <details>
 <summary><b>Dinsdag 27 okt Reflectieverslag</b></summary>
    
-<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" />
-
- 
+<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
 </details>
  
+### vrijdag 23 okt- retrospective
+
+<img width="1079" height="764" alt="Scherm­afbeelding 2026-10-27 om 15 34 05" src="https://github.com/user-attachments/assets/0fd729e2-4ff1-4c4a-b8b1-20a76564d9ee" />
+<img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
+<img width="1043" height="741" alt="Scherm­afbeelding 2026-10-27 om 15 34 26" src="https://github.com/user-attachments/assets/cf09b563-585f-4ed2-92e5-18150b36e200" />
 
 
 ### woensdag 21 okt
