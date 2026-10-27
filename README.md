@@ -6,7 +6,42 @@ https://kateybrinckman.nl/
 <details>
 <summary><b> Reflectieverslag</b></summary>
 
-<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
+<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" />
+
+### Bronnen
+
+- 1001 Fonts – Whimsical Love Story. https://www.1001fonts.com/demo-whimsical-love-story-font.html
+
+- 1001 Fonts – More Sugar. https://www.1001fonts.com/more-sugar-font.html
+
+- Modular Scale – Typografische schaal. https://www.modularscale.com/
+
+- MDN Web Docs – prefers-reduced-motion. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion
+
+- Noble Desktop – Animating a CSS background gradient. https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient
+
+- MDN Web Docs – cursor. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor
+
+- W3Schools – CSS Buttons. https://www.w3schools.com/css/css3_buttons.asp
+
+- CodePen – Animatie met sterren. https://codepen.io/Vampika/pen/BaemKrZ
+
+- MDN Web Docs – scale(). https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale
+
+- MDN Web Docs – opacity. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/opacity
+
+- MDN Web Docs – z-index. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/z-index
+
+- MDN Web Docs – Using CSS animations. https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using
+
+- MDN Web Docs – text-shadow. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-shadow
+
+- Bij afbeeldingen hulp gebruikt van CanvaPro
+  
+- Alle foto's zijn zelf gemaakt op mijn camera
+
+- Hulp van Julius en Maja
+
 </details>
 
 <details>
