@@ -1,8 +1,34 @@
-# Model van Kate
-
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
+🦩# Model van Kate 🎀
+https://kateybrinckman.nl/
 
 ## Learning Log
+
+<details>
+<summary><b>Dinsdag 27 okt Reflectieverslag</b></summary>
+   
+<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
+</details>
+
+<details>
+<summary><b>sprint 3 + expo </b></summary>
+   
+### maandag 26 okt- expo
+
+<img width="761" height="477" alt="Scherm­afbeelding 2026-10-27 om 15 45 49" src="https://github.com/user-attachments/assets/fece46b1-bacb-4b57-93e5-914c5276ab1b" />
+
+Ik was erg positief over mijn reacties op mijn expo! ik was ook erg geïnteresseerd in alle andere websites en kreeg hier veel nieuwe ideeën van!
+
+<img width="1079" height="755" alt="Scherm­afbeelding 2026-10-27 om 15 46 39" src="https://github.com/user-attachments/assets/6259b0e4-9734-4112-a66b-bb7c679fd256" />
+<img width="1100" height="754" alt="Scherm­afbeelding 2026-10-27 om 15 47 01" src="https://github.com/user-attachments/assets/141b773b-97a7-4fb3-9124-74b4ed43693e" />
+
+### vrijdag 23 okt- retrospective
+
+<img width="1079" height="764" alt="Scherm­afbeelding 2026-10-27 om 15 34 05" src="https://github.com/user-attachments/assets/0fd729e2-4ff1-4c4a-b8b1-20a76564d9ee" />
+
+<img width="1043" height="741" alt="Scherm­afbeelding 2026-10-27 om 15 34 26" src="https://github.com/user-attachments/assets/cf09b563-585f-4ed2-92e5-18150b36e200" />
+Met mijn metafoor bedoel ik dat ik een nieuwe taal heb geleerd, letterlijk maar ook dat ik op een vreemde onbekende plek "het web" ben beland en hier de taal heb moeten leren om te commeniceren met deze onbekende plek, eindelijk na de 2 eerste retrospects snap ik voor mijn gevoel hoe code in elkaar zit en wat ik er allemaal mee kan.
+
+<img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
 
 <details>
 <summary><b>sprint 3 </b></summary>
@@ -59,7 +85,9 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 
 <img width="570" height="687" alt="Scherm­afbeelding 2026-10-19 om 20 22 15" src="https://github.com/user-attachments/assets/83d2719f-c28d-4fc8-b050-b7bacaf641f5" />
 
-### donderdag 13 okt - Lyric afgemaakt en deep dive gemaakt
+### dinsdag 13 okt - Lyric afgemaakt en deep dive gemaakt
+
+<img width="431" height="695" alt="Scherm­afbeelding 2026-10-27 om 16 28 20" src="https://github.com/user-attachments/assets/f8420efa-6b20-486a-a8dd-ec00a6cdbfce" />
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
 <img width="1511" height="859" alt="Scherm­afbeelding 2026-10-15 om 19 42 41" src="https://github.com/user-attachments/assets/cb545ed0-a441-49e9-ae1c-0fb61eae94f8" />
@@ -124,6 +152,11 @@ Mijn ideale regellengte is ongeveer 50–75 tekens per regel
 
 Als je in een ontwerp maar één variabele tot je beschikking had om hiërarchie aan te brengen (grootte, plaatsing, spacing, lettersoorten), welke zou je dan gebruiken en waarom?
 Grootte, hiermee kan je goed uitdrukken wat belangrijk is en wat niet, ook de leesvolgorde kan je hiermee bepalen
+
+</details>
+
+<details>
+<summary><b>Sprint 2 </b></summary>
 
 ### vrijdag 2 okt - retrospect en beoordelingsgesprek
 
@@ -276,6 +309,9 @@ Hoe ga jij met cookies om? Beschrijf jouw beweegredenen en of die zijn veranderd
 
 - Ik accepteer ze meestal wel, maar ben er na deze les voorzichtiger mee.
 
+</details>
+<details>
+<summary><b>Sprint 1 </b></summary>
 ### 18 sept - checkout en beoordeling
 
 Oriënteren en begrijpen
@@ -429,6 +465,10 @@ Webby sites
 <img width="1072" height="761" alt="Scherm­afbeelding 2026-09-07 om 14 44 08" src="https://github.com/user-attachments/assets/c73423b7-f227-4108-a13c-97cf45eef5be" />
 
 <img width="943" height="687" alt="Scherm­afbeelding 2026-09-07 om 14 44 33" src="https://github.com/user-attachments/assets/f1352c4e-b969-46c2-aceb-abfc31d15a15" />
+</details>
+
+<details>
+<summary><b>Sprint o </b></summary>
 
 ### 4 sept - [Workshops]
 
@@ -463,3 +503,5 @@ GitHub, ik heb hiervoor gekozen omdat we hier vorig jaar mee hebben gewerkt
 Kateybrinckman.nl, het lukte momenteel niet om deze te koppelen.
 <p>3 Beschrijf hoe je aanpassingen aan jouw pagina kunt maken en hoe je er voor zorgt dat die op het web gepubliceerd worden.</p>
 Geen idee.
+
+</details>
