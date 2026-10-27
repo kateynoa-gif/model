@@ -82,7 +82,7 @@ Met mijn groepje de bi-weekly geek gemaakt.
 
 ### dinsdag 20 okt aan website gewerkt
 
-Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken voor de deadline.
+Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken voor de deadline. Ik heb de animatie voor de sterren eerst zelf getekend in canva, daarna het met keyframes geanimeerd. 
 
 <img width="502" height="616" alt="Scherm­afbeelding 2026-10-20 om 18 48 36" src="https://github.com/user-attachments/assets/b60c0f4d-be01-4869-8931-765441caaa60" />
 <img width="524" height="738" alt="Scherm­afbeelding 2026-10-20 om 18 48 26" src="https://github.com/user-attachments/assets/a4cb4421-5a2a-46a3-bf27-7829189e1c50" />
