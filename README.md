@@ -54,7 +54,7 @@ feedback Diederik:
 
 - alles in main nesten
 
--sterren en hartjes lichter/donker
+- sterren en hartjes lichter/donker
 
 evt: fotos op losse pages
 
