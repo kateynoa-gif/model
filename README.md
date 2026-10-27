@@ -4,7 +4,7 @@ https://kateybrinckman.nl/
 ## Learning Log
 
 <details>
-<summary><b>### Dinsdag 27 okt Reflectieverslag</b></summary>
+<summary><b>Dinsdag 27 okt Reflectieverslag</b></summary>
    
 <img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" />
 
