@@ -468,7 +468,7 @@ Webby sites
 </details>
 
 <details>
-<summary><b>Sprint o </b></summary>
+<summary><b>Sprint 0 </b></summary>
 
 ### 4 sept - [Workshops]
 
