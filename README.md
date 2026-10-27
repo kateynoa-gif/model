@@ -1,22 +1,71 @@
 🦩# Model van Kate 🎀
+
 https://kateybrinckman.nl/
 
 ## Learning Log
 
 <details>
-<summary><b>Dinsdag 27 okt Reflectieverslag</b></summary>
-   
-<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
+<summary><b> Reflectieverslag</b></summary>
+
+<img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" />
+
+### Bronnen
+
+- 1001 Fonts – Whimsical Love Story. https://www.1001fonts.com/demo-whimsical-love-story-font.html
+
+- 1001 Fonts – More Sugar. https://www.1001fonts.com/more-sugar-font.html
+
+- Modular Scale – Typografische schaal. https://www.modularscale.com/
+
+- MDN Web Docs – prefers-reduced-motion. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion
+
+- Noble Desktop – Animating a CSS background gradient. https://blog.nobledesktop.com/learn/web-design/animating-a-css-background-gradient
+
+- MDN Web Docs – cursor. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/cursor
+
+- W3Schools – CSS Buttons. https://www.w3schools.com/css/css3_buttons.asp
+
+- CodePen – Animatie met sterren. https://codepen.io/Vampika/pen/BaemKrZ
+
+- MDN Web Docs – scale(). https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Values/transform-function/scale
+
+- MDN Web Docs – opacity. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/opacity
+
+- MDN Web Docs – z-index. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/z-index
+
+- MDN Web Docs – Using CSS animations. https://developer.mozilla.org/en-US/docs/Web/CSS/Guides/Animations/Using
+
+- MDN Web Docs – text-shadow. https://developer.mozilla.org/en-US/docs/Web/CSS/Reference/Properties/text-shadow
+
+- Bij afbeeldingen hulp gebruikt van CanvaPro
+  
+- Alle foto's zijn zelf gemaakt op mijn camera
+
+- Hulp van Julius en Maja
+
 </details>
 
 <details>
 <summary><b>sprint 3 + expo </b></summary>
+
    
+### maandag 27 okt- laatste iteratie van website 
+
+<img width="1508" height="852" alt="Scherm­afbeelding 2026-10-27 om 19 39 04" src="https://github.com/user-attachments/assets/1777fd69-d348-413b-bdb6-b88f6fd6a5af" />
+<img width="1495" height="855" alt="Scherm­afbeelding 2026-10-27 om 19 39 20" src="https://github.com/user-attachments/assets/f022ee7f-5ebc-4857-a128-85f7e4164a8d" />
+
+<img width="758" height="453" alt="Scherm­afbeelding 2026-10-27 om 19 12 18" src="https://github.com/user-attachments/assets/a1838a6f-e737-4b6f-bc9c-958f720d5cec" />
+
+<img width="1512" height="831" alt="Scherm­afbeelding 2026-10-27 om 19 39 42" src="https://github.com/user-attachments/assets/e7c3c28f-d8e1-4b4e-839c-ade50197a835" />
+
+
 ### maandag 26 okt- expo
 
 <img width="761" height="477" alt="Scherm­afbeelding 2026-10-27 om 15 45 49" src="https://github.com/user-attachments/assets/fece46b1-bacb-4b57-93e5-914c5276ab1b" />
 
 Ik was erg positief over mijn reacties op mijn expo! Ik heb geen (negatieve)feedback gekregen en hoefde dus niks aan te passen. Ik heb hierna alleen nog de cookie popup een andere kleur gegeven, omdat Sanne me erop wees dat de kleur niet mooi bij de site paste en het niet meer op een koekje leek.
+
+<img width="758" height="453" alt="Scherm­afbeelding 2026-10-27 om 19 12 18" src="https://github.com/user-attachments/assets/a36e8b9b-5c39-49dc-a20c-660f0c2f0dce" />
 
 Ik was ook erg geïnteresseerd in alle andere websites en kreeg hier veel nieuwe ideeën van!
 
@@ -32,31 +81,27 @@ Met mijn metafoor bedoel ik dat ik een nieuwe taal heb geleerd, letterlijk maar 
 
 <img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
 
-<details>
-<summary><b>sprint 3 </b></summary>
-test
- 
-</details>
-
 ### woensdag 21 okt
+
+Ik heb alles verwerkt in mijn website hierna. 
 
 feedback Diederik:
 
 - seraphs toevoegen lyric
 
--lyric einde duidelijk maken> intentioneel
+- lyric einde duidelijk maken> intentioneel
 
--focus state nav bar
+- focus state nav bar
 
--link weghalen op over mij pag> staat al eronder
+- link weghalen op over mij pag> staat al eronder
 
--cookie popup alleen sluiten met akkoord button> geen naast klikken
+- cookie popup alleen sluiten met akkoord button> geen naast klikken
 
--class voor main maken voor pages/homepage (met Sanne overleggen of ik geen aparte css pagina mag maken)
+- class voor main maken voor pages/homepage (met Sanne overleggen of ik geen aparte css pagina mag maken)
 
--alles in main nesten
+- alles in main nesten
 
--sterren en hartjes lichter/donker
+- sterren en hartjes lichter/donker
 
 evt: fotos op losse pages
 
@@ -73,7 +118,7 @@ Met mijn groepje de bi-weekly geek gemaakt.
 
 ### dinsdag 20 okt aan website gewerkt
 
-Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken voor de deadline.
+Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken voor de deadline. Ik heb de animatie voor de sterren eerst zelf getekend in canva, daarna het met keyframes geanimeerd. 
 
 <img width="502" height="616" alt="Scherm­afbeelding 2026-10-20 om 18 48 36" src="https://github.com/user-attachments/assets/b60c0f4d-be01-4869-8931-765441caaa60" />
 <img width="524" height="738" alt="Scherm­afbeelding 2026-10-20 om 18 48 26" src="https://github.com/user-attachments/assets/a4cb4421-5a2a-46a3-bf27-7829189e1c50" />
@@ -89,6 +134,8 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 
 ### dinsdag 13 okt - Lyric afgemaakt en deep dive gemaakt
 
+Schetsen gemaakt van de grid om deze overzichtelijk te maken voor mezelf. 
+
 <img width="431" height="695" alt="Scherm­afbeelding 2026-10-27 om 16 28 20" src="https://github.com/user-attachments/assets/f8420efa-6b20-486a-a8dd-ec00a6cdbfce" />
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
@@ -98,6 +145,8 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 
 <img width="743" height="871" alt="Scherm­afbeelding 2026-10-15 om 19 52 49" src="https://github.com/user-attachments/assets/183a5a8a-19a5-4661-a091-a6f1f52fd3fd" />
 <img width="499" height="597" alt="Scherm­afbeelding 2026-10-15 om 19 34 29" src="https://github.com/user-attachments/assets/bd62259d-db3c-4d24-b00f-d08f7ee88520" />
+
+Lyrics: Ik heb de kleuren van de poster gebruikt om mijn lyric weer te geven, zoals hierboven te zien.
 
 ### woensdag 7 okt - werken aan code + schetsen
 
@@ -123,6 +172,8 @@ Hoeveel gekkigheid moet er in je werk zitten?
 
 <img width="563" height="453" alt="Scherm­afbeelding 2026-10-07 om 12 44 23" src="https://github.com/user-attachments/assets/51975306-da88-435c-be0e-2eaf8cdaa536" />
 <img width="568" height="758" alt="Scherm­afbeelding 2026-10-07 om 12 43 10" src="https://github.com/user-attachments/assets/cd09048b-a3c4-4ce1-b60e-711e5bbc83fe" />
+
+Ik heb hierboven veel naar het nummer geluisterd en duidelijk gemaakt welk deel ven de lyrics hard, zacht of lang wordt uitgesproken, zodat ik deze kan bewerken. 
 
 ### dinsdag 6 okt - zelfstudie
 
@@ -470,7 +521,7 @@ Webby sites
 </details>
 
 <details>
-<summary><b>Sprint o </b></summary>
+<summary><b>Sprint 0 </b></summary>
 
 ### 4 sept - [Workshops]
 
