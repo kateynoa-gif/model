@@ -10,7 +10,6 @@ test
  
 </details>
 
-
 ### woensdag 21 okt
 
 feedback Diederik:
