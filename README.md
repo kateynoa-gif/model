@@ -1,8 +1,10 @@
 # Model van Kate
-
-Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door studenten worden gemaakt.
+https://kateybrinckman.nl/
 
 ## Learning Log
+### Dinsdag 27 okt Reflectieverslag
+
+
 
 ### woensdag 21 okt
 
