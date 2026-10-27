@@ -144,7 +144,7 @@ Feedback Diederik:
 <img width="616" height="394" alt="Scherm­afbeelding 2026-10-02 om 11 41 45" src="https://github.com/user-attachments/assets/83b193d2-61a0-48d6-b3f4-c261b516d234" />
 <img width="620" height="438" alt="Scherm­afbeelding 2026-10-02 om 11 41 29" src="https://github.com/user-attachments/assets/b289eaa8-c611-412c-aa53-0f8dbbc2222f" />
 
-Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijken.
+Ik heb voor mijn metafoor de titel: innerlijke wedstrijd; ik merk dat ik dit blok veel moeite had met ontwerpen en creatief zijn omdat ik moeite heb met coderen, dit gaat ondertussen een stuk beter, maar ik merk wel dat het niet mijn persoonlijke voorkeur heeft als techniek om te gebruiken.
 
 ### donderdag 1 okt - website bijgewerkt
 
@@ -164,7 +164,7 @@ Aanpassingen:
 
 ### dinsdag 30 sept - WCAG & checkout
 
-Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik bovenaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website.
+Bij het testen van de voice activated assistence heb ik ontdekt dat mijn site goed te bedienen is maar ik nog wel bij veel onderwerpen een alt benaming moet toevoegen, ook wil ik onderaan toch een NAV bar toevoegen voor een makkelijkere gebruikerservaring. En als het lukt wil ik een knop maken waardoor alle text in een simpel lettertype komt te staan, het getekende/geschreven lettertype hoort namelijk wel erg bij het thema en de gedachtengang achter de website.
 
 <img width="549" height="338" alt="Scherm­afbeelding 2026-10-01 om 13 03 52" src="https://github.com/user-attachments/assets/38e399f6-0dea-4235-802d-e5caf05b9256" />
 <img width="570" height="395" alt="Scherm­afbeelding 2026-10-01 om 13 03 46" src="https://github.com/user-attachments/assets/4e977132-74cf-4602-9cd8-69c1c7352b39" />
@@ -199,7 +199,7 @@ Vind je dat je beperkt wordt in wat je kunt ontwerpen?
 
 ### dinsdag 29 sept - deep dive & popup gemaakt
 
-<img width="1294" height="680" alt="Scherm­afbeelding 2026-09-28 om 10 09 07" src="https://github.com/user-attachments/assets/736346a0-3bc8-4ebc-9362-cc7518a05dd3" />
+<img width="546" height="772" alt="Scherm­afbeelding 2026-09-24 om 14 17 10" src="https://github.com/user-attachments/assets/3d788daa-b1ea-4931-9876-2282654971f1" />
 
 ### maandag 28 sept - bi weekly geek
 
@@ -231,8 +231,6 @@ Deep dive positions en dialogs
 <img width="1317" height="605" alt="Scherm­afbeelding 2026-09-24 om 19 50 40" src="https://github.com/user-attachments/assets/455bed4f-695e-4cb2-9040-da31a9d6fa56" />
 
 Ik heb besloten om mijn website te veranderen, ik houd het nogsteeds erg girlie maar wil door mijn eerdere tekening graag deze kant op leunen, ik denk ook dat deze extra toevoeging aan mijn thema ervoor zorgt dat de website meer "speels" aanvoelt en bijdraagt aan het meisjesachtige en kinderlijke van mijn thema.
-
-<img width="546" height="772" alt="Scherm­afbeelding 2026-09-24 om 14 17 10" src="https://github.com/user-attachments/assets/3d788daa-b1ea-4931-9876-2282654971f1" />
 
 ### 23 sept - Les gehad over cookies
 
@@ -299,9 +297,10 @@ Wat ik wilde weten/bereiken is of ik een website kon coderen waar je mijn persoo
 Ik merkte dat het mij persoonlijk erg hielp om bij de deep dives te zijn en om hulp in persoon te vragen zodat ik het echt grondig begrijp. Ik vond na al deze moeite het resultaat erg matig, ik merkte dat ik altijd erg unieke resultaten wil, die dan moeilijker te coderen zijn, de volgende keer zal ik mijn ideeën haalbaarder maken. Ik weet nog lang niet alles van code en vind dit over het algemeen een moeilijk onderwerp, ik heb moeite met de exacte formuleringen opschrijven van de codes en bijvoorbeeld grids.
 Ik vind coderen ook niet echt leuk en doe het liever niet, ik vind het wel erg cool om iets van mezelf op het web te hebben en probeer hier zo goed als mogelijk in te worden. Ik merk dat de eisen voor deze opdracht voor mij momenteel erg vaag zijn, en dat ik deze even moet opfrissen.
 
-Retrospective
+### Retrospective
 
-Ik vond deze retrospective niet veel inzicht geven, dat kreeg ik meer door mijn beoordelingsgesprek.
+Ik vond deze retrospective niet veel inzicht geven, dat kreeg ik meer door mijn beoordelingsgesprek. Ik bedoel hier best iets letterlijks met mijn metafoor; ik vind code ingewikkeld, moeilijk, het geeft me erg veel stress en hoofdpijn en ik weet ook al dat ik er later niks mee wil doen, vandaar dus mijn "hell".
+
 <img width="1106" height="765" alt="Scherm­afbeelding 2026-09-18 om 11 25 08" src="https://github.com/user-attachments/assets/e8465638-d90c-4683-8c3d-3516b36d31fa" />
 <img width="1101" height="769" alt="Scherm­afbeelding 2026-09-18 om 11 24 44" src="https://github.com/user-attachments/assets/ed9fd21b-0d04-4e5b-aa20-7212bbc15534" />
 <img width="1190" height="753" alt="Scherm­afbeelding 2026-09-18 om 11 24 22" src="https://github.com/user-attachments/assets/d1f25d0d-2d9f-41a0-a974-c14d4580e1f0" />
