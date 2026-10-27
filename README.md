@@ -1,4 +1,4 @@
-# Model van Kate
+🦩# Model van Kate 🎀
 https://kateybrinckman.nl/
 
 ## Learning Log
@@ -8,13 +8,23 @@ https://kateybrinckman.nl/
    
 <img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
 </details>
- 
+
+### maandag 26 okt- expo
+
+<img width="761" height="477" alt="Scherm­afbeelding 2026-10-27 om 15 45 49" src="https://github.com/user-attachments/assets/fece46b1-bacb-4b57-93e5-914c5276ab1b" />
+Ik was erg positief over mijn reacties op mijn expo! ik was ook erg geïnteresseerd in alle andere websites en kreeg hier veel nieuwe ideeën van! 
+
+<img width="1079" height="755" alt="Scherm­afbeelding 2026-10-27 om 15 46 39" src="https://github.com/user-attachments/assets/6259b0e4-9734-4112-a66b-bb7c679fd256" />
+<img width="1100" height="754" alt="Scherm­afbeelding 2026-10-27 om 15 47 01" src="https://github.com/user-attachments/assets/141b773b-97a7-4fb3-9124-74b4ed43693e" />
+
 ### vrijdag 23 okt- retrospective
 
 <img width="1079" height="764" alt="Scherm­afbeelding 2026-10-27 om 15 34 05" src="https://github.com/user-attachments/assets/0fd729e2-4ff1-4c4a-b8b1-20a76564d9ee" />
-<img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
-<img width="1043" height="741" alt="Scherm­afbeelding 2026-10-27 om 15 34 26" src="https://github.com/user-attachments/assets/cf09b563-585f-4ed2-92e5-18150b36e200" />
 
+<img width="1043" height="741" alt="Scherm­afbeelding 2026-10-27 om 15 34 26" src="https://github.com/user-attachments/assets/cf09b563-585f-4ed2-92e5-18150b36e200" />
+Met mijn metafoor bedoel ik dat ik een nieuwe taal heb geleerd, letterlijk maar ook dat ik op een vreemde onbekende plek "het web" ben beland en hier de taal heb moeten leren om te commeniceren met deze onbekende plek, eindelijk na de 2 eerste retrospects snap ik voor mijn gevoel hoe code in elkaar zit en wat ik er allemaal mee kan.
+
+<img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
 
 ### woensdag 21 okt
 
