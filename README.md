@@ -110,6 +110,8 @@ Schetsen gemaakt van de grid om deze overzichtelijk te maken voor mezelf.
 <img width="743" height="871" alt="Scherm­afbeelding 2026-10-15 om 19 52 49" src="https://github.com/user-attachments/assets/183a5a8a-19a5-4661-a091-a6f1f52fd3fd" />
 <img width="499" height="597" alt="Scherm­afbeelding 2026-10-15 om 19 34 29" src="https://github.com/user-attachments/assets/bd62259d-db3c-4d24-b00f-d08f7ee88520" />
 
+Lyrics: Ik heb de kleuren van de poster gebruikt om mijn lyric weer te geven, zoals hierboven te zien.
+
 ### woensdag 7 okt - werken aan code + schetsen
 
 Deep dive
