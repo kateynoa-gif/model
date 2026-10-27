@@ -34,12 +34,6 @@ Met mijn metafoor bedoel ik dat ik een nieuwe taal heb geleerd, letterlijk maar 
 
 <img width="1150" height="783" alt="Scherm­afbeelding 2026-10-27 om 15 34 44" src="https://github.com/user-attachments/assets/bb49e9cc-a22a-4955-a670-de6078fb4478" />
 
-<details>
-<summary><b>sprint 3 </b></summary>
-test
- 
-</details>
-
 ### woensdag 21 okt
 
 feedback Diederik:
