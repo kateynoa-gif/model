@@ -98,6 +98,8 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 
 ### dinsdag 13 okt - Lyric afgemaakt en deep dive gemaakt
 
+Schetsen gemaakt van de grid om deze overzichtelijk te maken voor mezelf. 
+
 <img width="431" height="695" alt="Scherm­afbeelding 2026-10-27 om 16 28 20" src="https://github.com/user-attachments/assets/f8420efa-6b20-486a-a8dd-ec00a6cdbfce" />
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
