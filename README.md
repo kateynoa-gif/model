@@ -173,6 +173,8 @@ Hoeveel gekkigheid moet er in je werk zitten?
 <img width="563" height="453" alt="Scherm­afbeelding 2026-10-07 om 12 44 23" src="https://github.com/user-attachments/assets/51975306-da88-435c-be0e-2eaf8cdaa536" />
 <img width="568" height="758" alt="Scherm­afbeelding 2026-10-07 om 12 43 10" src="https://github.com/user-attachments/assets/cd09048b-a3c4-4ce1-b60e-711e5bbc83fe" />
 
+Ik heb hierboven veel naar het nummer geluisterd en duidelijk gemaakt welk deel ven de lyrics hard, zacht of lang wordt uitgesproken, zodat ik deze kan bewerken. 
+
 ### dinsdag 6 okt - zelfstudie
 
 Deep dive interesantere layout gemaakt.
