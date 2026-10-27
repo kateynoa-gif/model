@@ -4,6 +4,13 @@ Het staat model voor digitale tuintjes welke bij 'Het web is voor iedereen' door
 
 ## Learning Log
 
+<details>
+<summary><b>sprint 3 </b></summary>
+test
+ 
+</details>
+
+
 ### woensdag 21 okt
 
 feedback Diederik:
