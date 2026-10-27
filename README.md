@@ -36,21 +36,23 @@ Met mijn metafoor bedoel ik dat ik een nieuwe taal heb geleerd, letterlijk maar 
 
 ### woensdag 21 okt
 
+Ik heb alles verwerkt in mijn website hierna. 
+
 feedback Diederik:
 
 - seraphs toevoegen lyric
 
--lyric einde duidelijk maken> intentioneel
+- lyric einde duidelijk maken> intentioneel
 
--focus state nav bar
+- focus state nav bar
 
--link weghalen op over mij pag> staat al eronder
+- link weghalen op over mij pag> staat al eronder
 
--cookie popup alleen sluiten met akkoord button> geen naast klikken
+- cookie popup alleen sluiten met akkoord button> geen naast klikken
 
--class voor main maken voor pages/homepage (met Sanne overleggen of ik geen aparte css pagina mag maken)
+- class voor main maken voor pages/homepage (met Sanne overleggen of ik geen aparte css pagina mag maken)
 
--alles in main nesten
+- alles in main nesten
 
 -sterren en hartjes lichter/donker
 
