@@ -18,6 +18,8 @@ https://kateybrinckman.nl/
 
 Ik was erg positief over mijn reacties op mijn expo! Ik heb geen (negatieve)feedback gekregen en hoefde dus niks aan te passen. Ik heb hierna alleen nog de cookie popup een andere kleur gegeven, omdat Sanne me erop wees dat de kleur niet mooi bij de site paste en het niet meer op een koekje leek.
 
+<img width="758" height="453" alt="Scherm­afbeelding 2026-10-27 om 19 12 18" src="https://github.com/user-attachments/assets/a36e8b9b-5c39-49dc-a20c-660f0c2f0dce" />
+
 Ik was ook erg geïnteresseerd in alle andere websites en kreeg hier veel nieuwe ideeën van!
 
 <img width="1079" height="755" alt="Scherm­afbeelding 2026-10-27 om 15 46 39" src="https://github.com/user-attachments/assets/6259b0e4-9734-4112-a66b-bb7c679fd256" />
