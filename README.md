@@ -11,9 +11,11 @@ https://kateybrinckman.nl/
 
 <details>
 <summary><b>sprint 3 + expo </b></summary>
+   
 ### maandag 26 okt- expo
 
 <img width="761" height="477" alt="Scherm­afbeelding 2026-10-27 om 15 45 49" src="https://github.com/user-attachments/assets/fece46b1-bacb-4b57-93e5-914c5276ab1b" />
+
 Ik was erg positief over mijn reacties op mijn expo! ik was ook erg geïnteresseerd in alle andere websites en kreeg hier veel nieuwe ideeën van! 
 
 <img width="1079" height="755" alt="Scherm­afbeelding 2026-10-27 om 15 46 39" src="https://github.com/user-attachments/assets/6259b0e4-9734-4112-a66b-bb7c679fd256" />
@@ -78,7 +80,7 @@ Ik heb voor alle wijzigingen een lijst gemaakt en ben begonnen met deze afwerken
 
 <img width="570" height="687" alt="Scherm­afbeelding 2026-10-19 om 20 22 15" src="https://github.com/user-attachments/assets/83d2719f-c28d-4fc8-b050-b7bacaf641f5" />
 
-### donderdag 13 okt - Lyric afgemaakt en deep dive gemaakt
+### dinsdag 13 okt - Lyric afgemaakt en deep dive gemaakt
 <img width="431" height="695" alt="Scherm­afbeelding 2026-10-27 om 16 28 20" src="https://github.com/user-attachments/assets/f8420efa-6b20-486a-a8dd-ec00a6cdbfce" />
 
 <img width="1511" height="598" alt="Scherm­afbeelding 2026-10-15 om 19 42 48" src="https://github.com/user-attachments/assets/4419e503-7a56-4173-9991-996e3faea025" />
