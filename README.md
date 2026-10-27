@@ -5,13 +5,24 @@ https://kateybrinckman.nl/
 
 <details>
 <summary><b>Dinsdag 27 okt Reflectieverslag</b></summary>
-   
+
 <img width="456" height="644" alt="Scherm­afbeelding 2026-10-27 om 15 15 57" src="https://github.com/user-attachments/assets/5599c0d2-ffaa-44ee-ade3-f79569c05d4c" /> 
 </details>
 
 <details>
 <summary><b>sprint 3 + expo </b></summary>
+
    
+### maandag 27 okt- laatste iteratie van website 
+
+<img width="1508" height="852" alt="Scherm­afbeelding 2026-10-27 om 19 39 04" src="https://github.com/user-attachments/assets/1777fd69-d348-413b-bdb6-b88f6fd6a5af" />
+<img width="1495" height="855" alt="Scherm­afbeelding 2026-10-27 om 19 39 20" src="https://github.com/user-attachments/assets/f022ee7f-5ebc-4857-a128-85f7e4164a8d" />
+
+<img width="758" height="453" alt="Scherm­afbeelding 2026-10-27 om 19 12 18" src="https://github.com/user-attachments/assets/a1838a6f-e737-4b6f-bc9c-958f720d5cec" />
+
+<img width="1512" height="831" alt="Scherm­afbeelding 2026-10-27 om 19 39 42" src="https://github.com/user-attachments/assets/e7c3c28f-d8e1-4b4e-839c-ade50197a835" />
+
+
 ### maandag 26 okt- expo
 
 <img width="761" height="477" alt="Scherm­afbeelding 2026-10-27 om 15 45 49" src="https://github.com/user-attachments/assets/fece46b1-bacb-4b57-93e5-914c5276ab1b" />
